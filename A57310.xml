@@ -1,0 +1,572 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A standard of righteousness lifted up unto the nations, and an ensigne of grace unto the people, but the flagge of defiance against Antichrist, and all his messengers and ministers, who are under his power and pleading for it, for terme of life all of which are held forth in a plain answer unto Leonard Letchford's quaery concerning perfection and keeping of Gods law and Commandments, which may serve the universal good, and satisfaction of all people who are yet unsatisfied in these weighty matters in this book inserted : with a testimony concerning the natural man who cannot keep the law nor commands of God ... / given forth this 13th day of the 8th moneth, 1663, by a follower of the Lamb thorow [sic] many tribulations, whose name is Ambrose Rigge.</title>
+            <author>Rigge, Ambrose, 1635?-1705.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1663</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 92 KB of XML-encoded text transcribed from 19 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-12">2011-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A57310</idno>
+            <idno type="STC">Wing R1492</idno>
+            <idno type="STC">ESTC R6133</idno>
+            <idno type="EEBO-CITATION">13698015</idno>
+            <idno type="OCLC">ocm 13698015</idno>
+            <idno type="VID">101443</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A57310)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 101443)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 848:13)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A standard of righteousness lifted up unto the nations, and an ensigne of grace unto the people, but the flagge of defiance against Antichrist, and all his messengers and ministers, who are under his power and pleading for it, for terme of life all of which are held forth in a plain answer unto Leonard Letchford's quaery concerning perfection and keeping of Gods law and Commandments, which may serve the universal good, and satisfaction of all people who are yet unsatisfied in these weighty matters in this book inserted : with a testimony concerning the natural man who cannot keep the law nor commands of God ... / given forth this 13th day of the 8th moneth, 1663, by a follower of the Lamb thorow [sic] many tribulations, whose name is Ambrose Rigge.</title>
+                  <author>Rigge, Ambrose, 1635?-1705.</author>
+               </titleStmt>
+               <extent>[4], 32 p.   </extent>
+               <publicationStmt>
+                  <publisher>s.n.],</publisher>
+                  <pubPlace>[London :</pubPlace>
+                  <date>1663.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Place of publication from Wing.</note>
+                  <note>Reproduction of original in Cambridge University Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Letchford, Leonard.</term>
+               <term>Perfection --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2011-02</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2011-02</date>
+            <label>Apex CoVantage</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2011-04</date>
+            <label>Judith Siefring</label>Sampled and proofread</change>
+         <change>
+            <date>2011-04</date>
+            <label>Judith Siefring</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2011-06</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:101443:1"/>
+            <pb facs="tcp:101443:1" rendition="simple:additions"/>
+            <p>A Standard of Righteouſneſs lifted up unto the Nations, and an Enſigne of Grace unto the People. But the Flagge of Defiance againſt <hi>Antichriſt,</hi> and all his Meſſengers and Miniſters, who are under his power and pleading for it, for terme of life. All which are held forth in a plain anſwer unto <hi>Leonard Letchfords</hi> Quaery Concerning Perfection and keeping of Gods Law and Commandements, which may ſerve for the univerſal good, and ſatisfaction of all people who are yet unſatisfied in theſe weighty matters in this Book inſerted. With a teſtimony concerning the natural man, who cannot keep the Law nor Commands of God. Alſo an Invitation to all people to come unto the Fountain of Living Waters, from whence they have been driven. Alſo a teſtimony concerning the ſpiritual man, in whom the Law of God is fulfilled, and the Commands of Chriſt kept. Alſo the way to the Kingdome of God in ſhort held forth to all who are wil<g ref="char:EOLhyphen"/>ling to enter therein. Alſo the difference between the true Goſpel and the falſe truly ſtated. With 34 Quaeries for <hi>Leo. Letchford</hi> of <hi>Hurſt-pier</hi> point, in the County of <hi>Suſſex,</hi> to be anſwered by him, by plain Scripture, as I have anſwered his.</p>
+            <p>
+               <hi>Given forth this 13th. day of the 8th. Moneth 1663, by a follower of the Lamb thorow many tribulations, whoſe Name is AMBROSE RIGGE.</hi>
+            </p>
+            <q>
+               <p>When the enemy ſhall come in like a flood, the Spirit of the Lord ſhall lift up a Standard againſt him.</p>
+               <bibl>Iſ. 59. 19.</bibl>
+            </q>
+            <p>Printed in the Year 1663.</p>
+         </div>
+         <div type="to_the_reader">
+            <pb facs="tcp:101443:2" rendition="simple:additions"/>
+            <pb facs="tcp:101443:2"/>
+            <opener>
+               <salute>Gentle and Courteous Reader:</salute>
+            </opener>
+            <p>IN this ſmall Book is many weighty matters laid down to thy ſerious conſideration, even the things which belongs to thy eternal peace with God; therefore be not raſh nor haſty to judge of any thing herein, which may be above thy ca<g ref="char:EOLhyphen"/>pacity, but wait in that meaſure of the gift of grace which God hath bestowed upon thee, that it may lead thee in the path of righteouſneſſe; ſo will theſe heavenly myſteries be unfolded unto thee: and if in any thing thou be contrary minded, God ſhall reveal even this unto thee; for he revealeth ſecrets, and the light dwelleth with him. And as no man knows the things of man, ſave the ſpirit of man, that is in him; ſo no man knows the things of God, ſave the ſpirit of God. Therefore if thou wouldſt know whether theſe things in this little Vo<g ref="char:EOLhyphen"/>lume, be of God or no, return to the manifesta<g ref="char:EOLhyphen"/>tion of Gods Spirit, which he hath given to thee to profit withal; this will be as the Key of <hi>David</hi> unto thee, and will open unto thee theſe things, and no man ſhall ſhut them from thee; but if this ſhut them from thee, no man ſhall open them to thee: Therefore unto this I recommend thee, and remain</p>
+            <closer>
+               <signed>Thine to ſerve in love AMB. RIGGE.</signed>
+            </closer>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb facs="tcp:101443:3"/>
+            <pb n="1" facs="tcp:101443:3" rendition="simple:additions"/>
+            <head>A Standard of Righteouſneſſe lifted up to the Nations, and an En<g ref="char:EOLhyphen"/>ſigne of Peace unto the People.</head>
+            <p>IN <hi>the beginning God made man upright,</hi> Eccl. 7. 29. <hi>perfect and compleat in his owne Image,</hi> Gen. 1. 26, 27. which was righteouſneſs and true holineſs, and gave him divers Commandements, and al<g ref="char:EOLhyphen"/>ſopower to keep and obſerve them, while he ſtood in that perfect image in which he was created; who in that ſtate was a Son of God, and Heir of Life, and had the Tree of Life freely given him to be his food, that he might live for ever. But out of that ſtate the Serpent led him to ſin and break Covenant with God, whereby he loſt that perfection of holineſſe in which he ſtood compleat, while he kept Covenant with God. And alſo was diſpoſſeſſed of that power by which he kept the Commands of God; and ſo all his poſterity died in him from that power and perfection of holineſſe in which man was created, and fell into Satans Kingdome, which is ſin and im<g ref="char:EOLhyphen"/>perfection; and ſo were (and alwayes have been) led captive at his will into many noyſome luſts, which hath drowned thouſands in per<g ref="char:EOLhyphen"/>dition. <hi>But as in Adam all died, ſo in Chriſt ſhall all be made alive.</hi> 1 Cor.
+15. 22.</p>
+            <p>This glad tydings of Life, Salvation and Redemption, was gene<g ref="char:EOLhyphen"/>ral to all Mankind without reſpect of perſons, who would hear and obey him, by whom God in his eternal purpoſe would reſtore man into his firſt eſtate (<hi>viz.</hi>) by Chriſt the ſecond <hi>Adam,</hi> according to his word by <hi>Iſaiah</hi> the Propet, who ſaid that Zion ſhould be redeem<g ref="char:EOLhyphen"/>ed through judgement, and her Converts with righteouſneſſe, <hi>Iſa.</hi> 1. 27. And alſo ſaid he would reſtore her Judges as at the firſt, and her Counſellors as at the beginning, and afterwards ſhe ſhould be cal<g ref="char:EOLhyphen"/>led the City of Righteouſneſſe, the faithful City,
+<hi>verſe</hi> 26. This was the firſt promiſe of mans reſtoration into that perfection of ho<g ref="char:EOLhyphen"/>lineſſe in which he was created,</p>
+            <p>
+               <pb n="2" facs="tcp:101443:4"/>And he propheſied of the Coming and Kingdome of Chriſt, and ſaid it ſhall come to paſſe in the laſt dayes that the Mountain of the Lords Houſe ſhall be eſtabliſhed in the top of the Mountains: And many people ſhould ſay, Come and let us go up to the Mountain of the Lord, to the Houſe of the God of <hi>Iacob,</hi> and he will teach us of his wayes, and we will walke therein. <hi>Iſa.</hi> 2. 2, 3. And the ſame Prophet cried unto the houſe of <hi>Iacob,</hi> and ſaid, Come let us walke in the light of the Lord,
+<hi>Iſa.</hi> 2. 5. Here was the way of God, which was his Light, propheſied of, to lead man again to God, from whence he was fallen, which afterwards came to lead the Iſrael of God in all his wayes, as hereafter I ſhall fully declare.</p>
+            <p>Yet never theleſſe the ſame Prophet ſaid, Chriſts Kingdome ſhould be a Tabernacle, when the Lord had waſhed away the filth of the Daughter of <hi>Zion</hi> by the Spirit of judgement and burning, <hi>Iſa.</hi> 4, 4. 5, 6. yet the ſame Prophet ſaw in a Viſion the ſtubborneſſe of ma<g ref="char:EOLhyphen"/>ny, to their own deſtruction, and ſaid they would make their hearts fat, and their ears heavy, and would not hear; and ſhut their eyes, leaſt they ſhould ſee, until their Cities was waſted without inhabi<g ref="char:EOLhyphen"/>tants, and their houſes without men.
+<hi>Iſa.</hi> 6. 10, 11. But ſaid in it there ſhould be a remnant, which ſhould be as a Teyle Tree, or as an Oake, whoſe ſubſtance was in them when they caſt their leaves; ſo the holy ſeed ſhould be the ſubſtance thereof, <hi>Iſa.</hi> 6. 13. which after<g ref="char:EOLhyphen"/>wards was fulfilled; for Chriſt the holy ſeed was after, in the rem<g ref="char:EOLhyphen"/>nant that was ſaved; as the ſubſtance remained in the Teyle Tree or Oake, when their leaves was caſt. This was alſo a certain teſtimony of the Son of God, who was ſet for the fall and the raiſing again of many in <hi>Iſrael, Luke</hi> 2. 34. who was to be manifeſted in man, to re<g ref="char:EOLhyphen"/>ſtore him to his firſt eſtate, as the Apoſtles at large afterwards wit<g ref="char:EOLhyphen"/>neſſed.</p>
+            <p>The ſame Prophet alſo propheſied of the birth of this Second <hi>A<g ref="char:EOLhyphen"/>dam,</hi> and of his Kingdome and Government, <hi>Iſa.</hi> 9. 6. 7. And ſaid the remnant of the houſe of
+<hi>Iacob</hi> ſhould no more ſtay upon him who ſmote them, but ſhould ſtay upon the Lord the Holy One of <hi>Iſrael;</hi> and ſhould return unto the mighty God, <hi>Iſa.</hi> 10. 20,
+21. as afterwards it came to paſſe. And again he teſtified of the peaceable Kingdome of Chriſt, wherein the earth ſhould be filled with the knowledge of God, as the waters cover the Sea, <hi>Iſa.</hi> 11. 1, 2, 3, 4, 5, 6, 7, 8, 9. which ksowledge came afterwards to be received by the Light which God had commanded to ſhine in their hearts, who was wit<g ref="char:EOLhyphen"/>neſſes of the ſame, 2 <hi>Cor.</hi> 4. 6. by which the light of the know<g ref="char:EOLhyphen"/>ledge of the glory of God was received in the face of Ieſus Chriſt.</p>
+            <p>Again, the Lord by the Prophet called every one that thirſted to drink freely of the waters of Life, without money and without price, and called many to pentance, <hi>verſe</hi> 6. and ſaid, Let the
+<pb n="3" facs="tcp:101443:4" rendition="simple:additions"/> wicked forſake his wayes, and the unrighteous man his thoughts, and let him returne unto the Lord, and he will have mercy upon him, <hi>verſe</hi> 7. Here was the promiſe of mercy unto man, if he for<g ref="char:EOLhyphen"/>ſaked his unrighteous wayes and thoughts; and to no other, as af<g ref="char:EOLhyphen"/>terwards was teſtified, <hi>Prov.</hi> 28. 13. and furthermore the Prophet declareth the glory of the true Church, and ſaith, the Gentiles ſhall come to her light, and Kings to the brightneſſe of her riſing, <hi>Iſa.</hi> 60. 3. which was afterwards fulfilled.</p>
+            <p>All which propheſies was the univerſal love of God in Chriſt Ie<g ref="char:EOLhyphen"/>ſus to Mankind, for his reſtauration into that Image and perfection of holineſſe in which he was created; ſo that all who received him when he came to be manifeſted to them, he gave power to become the ſons of God, and heirs of life, <hi>Iohn</hi> 1. 12.</p>
+            <p>And <hi>Ieremiah</hi> alſo propheſied of the ſcattered flock of the Lord, whom the wicked Paſtours of Iſrael had deſtroyed. And the Lord ſaid I will gather the remnant of my Flock out of all Countries where they have been driven, and will bring them again into their fold, and will ſet one Shepherd over them which ſhall feed them, <hi>Ier.</hi> 23. And in his dayes
+<hi>Iudah</hi> ſhall be ſaved, and <hi>Iſrael</hi> ſhall dwell ſafely, and this is his name whereby he ſhall be called; the Lord our Righte<g ref="char:EOLhyphen"/>ouſneſs, <hi>ver.</hi> 6. And they ſhall no more ſay the Lord liveth which brought the children of <hi>Iſrael</hi> out of
+<hi>Egypt,</hi> but the Lord liveth which brought the ſeed of the houſe of <hi>Iacob</hi> out of the North Coun<g ref="char:EOLhyphen"/>trey, and out of all Countries whither he hath driven them, <hi>verſ.</hi> 7,
+8. All which the Lord ſpoke by way of Propheſie, that he would reſtore <hi>Iſrael</hi> his people into unity with him, which could not poſſi<g ref="char:EOLhyphen"/>ble be untill he had finiſhed tranſgreſſion in them, which was the firſt cauſe of ſeparation from God and the glory of his power.</p>
+            <p>And again the Lord by the mouth of <hi>Ieremiah</hi> Propheſied of the reſtoration of
+<hi>Iſrael,</hi> and ſaid he would bring them from the North Countrey, and gather them from the coaſts of the earth; he that ſcattered <hi>Iſrael</hi> will gather them as a Shepherd doth his flock, <hi>Ier.</hi> 31. 10. And alſo ſaid he would make a Covenant with the houſe of
+<hi>Iſrael</hi> and the houſe of <hi>Iudah,</hi> not according to the Covenant which he made with their Fathers when he took them by the hand to bring them out of the land of <hi>Egypt</hi> (Mark!) but this ſhall be the Cove<g ref="char:EOLhyphen"/>nant that I will make with the houſe of <hi>Iſrael;</hi> I will put my Law in their inward parts, and write it in their hearts; And they ſhall teach no more every man his neighbour, and every man his brother, ſaying, know the Lord, &amp;c. <hi>Ier.</hi>
+31. 31, 32. 33. This is the Covenant in which Chriſt was promiſed, where in God would write his Law in his peoples hearts, which afterwards the Apoſtles witneſſed, with whom this Covenant was made and confirmed; in which they wit<g ref="char:EOLhyphen"/>neſſed the blood of Chriſt to cleanſe them from all ſin, 1 <hi>Iohn</hi> 1. 7. This Covenant was a Covenant of Light, and of Life, wherein the
+<pb n="4" facs="tcp:101443:5"/> Law of the Spirit of Life, not writ in Tables of Stone, but in the fleſhly Tables of the Heart, 2 <hi>Cor. 3. 3.</hi> was their Schoolmaſter to bring them to Chriſt, that they might be juſtified by faith, <hi>Gal. 3. 24.</hi> and ſo were preſented blameleſs unto God, which the blood of Bulls and Goats could not do, nor any outward thing, <hi>Heb. 10.
+4.</hi>
+            </p>
+            <p>And by the mouth of <hi>Ezekiel</hi> the Lord promiſed to gather his people again unto himſelf, and ſeek them as a Shepherd ſeeketh his Sheep, and feed them in a good paſture,
+<hi>Ezek. 34, 12, 13, 14, 15, 16.</hi> Here was Gods univerſal love again manifeſted by way of prophecy, for the recovery of loſt man again; all which promiſes was made conditi<g ref="char:EOLhyphen"/>onally unto mankind, if they believed in him whom God hath cho<g ref="char:EOLhyphen"/>ſen to be the author of eternal ſalvation, to all who received and be<g ref="char:EOLhyphen"/>lieved in him.</p>
+            <p>Then afterwards <hi>Daniel</hi> propheſied of the ſuffering of the Son of God, of whom the Prophets had written, whom the Angell ſhewed that ſeventy weeks were determined to finiſh tranſgreſſion, and to make an end of ſin, and to make reconciliation for iniquity, and to bring in everlaſting righteouſneſs, <hi>Dan. 9. 24.</hi>
+            </p>
+            <p>And in verſe the 26. ſaith, that after ſixty two weeks ſhall the Meſſiah be ſlain, but not for himſelf, and in verſe the 27. he ſhall con<g ref="char:EOLhyphen"/>firm the Covenant with many for one week, and in the midſt of the week he ſhall cauſe the offerings and the oblations to ceaſe.</p>
+            <p>This ſhewed the death of the Son of God, before he came into the world, by which ſin and tranſgreſſion was to be finiſhed, which was the cauſe of offerings and ſacrifices, ſtill demonſtrating Gods eternal purpoſe through him, to put an end to tranſgreſſion in man, without which man could never come to him again, nor be reſtored into that image and glory which he loſt by tranſgreſſion, which is the perfection of holineſs in the ſight of the Lord, which the Apo<g ref="char:EOLhyphen"/>ſtles teſtified unto, <hi>2 Cor. 7. 1.</hi> that man might live with God in the ſpirit, for which end he was created, which was brought to paſs through the death and ſuffering of his Son, whom he ſent into the world, that they through him might be ſaved,
+<hi>Iohn 3. 17.</hi>
+            </p>
+            <p>And the Lord ſpake again by the mouth of <hi>Amos,</hi> and ſaid, The plow-man ſhould overtake the reaper, and the treader of grapes him that ſowed ſeed, and the mountains ſhall drop down with ſweet wine, and he would bring again the captivity of his people Iſrael,
+<hi>Amos 9. 13, 14.</hi>
+            </p>
+            <p>And <hi>Micah</hi> foretold of the birth of this Saviour, even in <hi>Bethlehem Ephratah</hi> though it was little among the thouſands of <hi>Iudah,</hi> yet out of it ſhall he come forth that was to be ruler in Iſrael, whoſe goings forth hath been from old from everlaſting, and he ſhall ſtand and rule in the ſtrength of the Lord, and in the majeſty of the name of the Lord, and ſhall be great unto the end of the earth, <hi>Micah 5. 2, 3, 4.</hi>
+            </p>
+            <p>
+               <pb n="5" facs="tcp:101443:5" rendition="simple:additions"/>And alſo ſaid, that the remnant of <hi>Iſrael</hi> ſhould be among many Nations as a dew from the Lord that tarrieth not for man, and as the ſhowers upon the tender graſs, &amp;c. And the remnant of <hi>Iacob</hi> ſhall be among the Gentiles as a Lion among the beaſts of the forreſt, and as a young Lion among the flocks of the ſheep which ſhould rouze them, and go thorow and none can deliver, <hi>ver. 7, 8.</hi>
+            </p>
+            <p>All which Propheſies being ſo clear and full both of the Birth and coming of the Son of God, and of his perfecting the work of the Lord, which is to deſtroy the works of the Devil, and reſtore man in<g ref="char:EOLhyphen"/>to that Image and Glory of God which he loſt by tranſgreſſion, that he that runs may read it, <hi>Hab. 2. 2.</hi> this was the very end for which he was manifeſted, and for which he dyed and roſe again according to the Scriptures.</p>
+            <p>So, when he was come, of whom the Prophets gave teſtimony, and born in <hi>Bethlehem</hi> of
+<hi>Iudea, Mat. 2. 1. Luke 2. 4.</hi> he began to do many mighty works and wonders, in reſtoring the blinde to his ſight, and the lame to walk, and the deaf to hear, as it is written of him,
+<hi>Mark 7. 37.</hi> whoſe work was alwayes a work of perfection both in his re<g ref="char:EOLhyphen"/>ſtoration of body and ſoul, who ſaved to the uttermoſt all who came to God by him, <hi>Heb. 7. 25.</hi> and made man every whit whole, <hi>Iohn 7. 23.</hi> and did not leave his work imperfect nor uneffected in nor upon them who did believe in him; for then he had done no more then did the Old Covenant which was diſannulled becauſe of the weak<g ref="char:EOLhyphen"/>neſs andunpr ofitableneſs thereof, becauſe it made not the comers thereunto perfect, for then it ſhould have ceaſed, <hi>Heb.
+10. 1, 2,</hi> but he hath obtained a more excellent miniſtry, how much alſo he is become a Mediator of a better Covenant which was eſtabliſhed upon better promiſes, <hi>Heb. 8. 6.</hi> For if perfection had been by the Levitical Prieſt<g ref="char:EOLhyphen"/>hood, under which the Law was received, what further need was there that another Prieſthood ſhould ariſe after the Order of
+<hi>Melchi<g ref="char:EOLhyphen"/>ſedec</hi> and not be called after the Order of <hi>Aaron?</hi> Heb. 7. 11.</p>
+            <p>All which is granted the firſt Prieſthood, with all its Offerings and Sacrifices evening and morning, and with all its Rites and Ceremo<g ref="char:EOLhyphen"/>nies, could not make the comers thereunto perfect; and the Law, with all its works, could never juſtifie any, nor make any thing per<g ref="char:EOLhyphen"/>fect, <hi>Heb. 7.
+19.</hi> And therefore <hi>Moſes</hi> did but obtain a Servants place, yet being faithfull therein according to what God had manifeſted, <hi>Heb. 3. 2. 5.</hi> he was called the Friend of God, in doing whatſoever he commanded him, and laid down his head in peace in the Land of
+<hi>Moab,</hi> according to the word of the Lord, <hi>Deut. 34. 5.</hi> though that Prieſthood was not then appeared, thorow which the perfection of holineſs was afterward witneſſed, nor power to become the Sons of God, but only ſervants, who in doing what the Lord commanded them, it was well-pleaſing to God, and he bleſſed them in their gene<g ref="char:EOLhyphen"/>ration.</p>
+            <p>
+               <pb n="6" facs="tcp:101443:6"/>And <hi>Abraham</hi> alſo God bleſſed in his generation, becauſe he obey<g ref="char:EOLhyphen"/>ed the Word and Commandement of God, and with-held not his onely Son at the Commandement of the Lord, <hi>Gen. 22. 8, 9, 10, 11, 12.</hi> who believed in God and obeyed his Word, therefore he died in a good old age, an old man and full of years, and was gathered unto his people, <hi>Gen.
+25. 8.</hi> And God ſaid unto him, becauſe thou haſt done this, and haſt not with-held thy Son, thine onely Son, that in bleſſing, I will bleſſe thee, and in multiplying, I will multiply thy ſeed; and make it as the Stars of Heaven, and as the ſand upon the Sea ſhore, &amp;c. <hi>Gen. 22. 16, 17.</hi>
+            </p>
+            <p>And <hi>David</hi> did that which was right in the eyes of the Lord, and and turned not aſide from any thing that he commanded him, all the dayes of his life, ſave onely in the matter of
+<hi>Vriah</hi> the Hittite, I <hi>Kings 15. 5.</hi> for which he ſuffered the ſevere judgement of the Lord, ſo that he laid roaring all the day long, and watered his Couch with his tears,
+<hi>Pſal. 22. 1. Pſal. 32. 3.</hi> by which judgement he was re<g ref="char:EOLhyphen"/>deemed again unto God, and became a veſſel of honour to ſound forth the praiſes of God, <hi>Pſal. 98. Pſal. 101. and 103. and 104.</hi> after which he departed not from the Law of God, but continued in the ſame unto the end of his dayes.</p>
+            <p>And many other of the faithful ſervants of the Lord, who obeyed his Word and Commandements, which I might mention both in the time of the Law and the Prophets, who kept the Commandements, Laws, Statutes and Ordinances of God; in the keeping of which he promiſed life unto man,
+<hi>Levit. 8. 5. Ezek. 20. 11.</hi> which Laws, Statutes, and Iudgements was given to Iſrael, but they deſpiſed them, and polluted his Sabboths; therefore he powred forth his fury upon them in the Wilderneſſe to conſume them, <hi>Ezek. 20. 13.</hi> And all that went on in breaking his Laws and Commandements, he o<g ref="char:EOLhyphen"/>verthrew in the Wilderneſſe, and they never came into the promiſed Land, I <hi>Cor. 10. 5.</hi>
+            </p>
+            <p>Now theſe things were examples to them that came after, that they ſhould not luſt after evil things, as they alſo luſted; <hi>verſe 6.</hi>
+            </p>
+            <p>Neither to be Idolater, as were ſome of them, as it is written; The people ſate down to eat and drink, and roſe up to play, <hi>Exod. 32. 6. I Cor. 10. 7.</hi> This was counted Idolatry, then which many are found in at this day, who cannot endure ſo to be called; though we know that no Whoremonger, nor unclean perſon, nor covetous man, who is an Idolater, hath any Inheritance in the Kingdome of Chriſt<g ref="char:punc">▪</g> nor of God; <hi>Eph. 5. 3, 4, 5.</hi>
+            </p>
+            <p>And the Apoſtle ſaid, Let no man deceive you with vain words, for becauſe of theſe things cometh the wrath of God upon the chil<g ref="char:EOLhyphen"/>dren of diſobedience, <hi>verſe 6.</hi>
+            </p>
+            <pb n="7" facs="tcp:101443:6" rendition="simple:additions"/>
+            <p>¶ Here followeth ſome of <hi>Leonard Letchford's.</hi> doctrine, by way of Quaery, lately publiſhed in two or three papers ſent to me, which I ſhall compare with the writings of the holy men of God which I have before aſſerted; who lived but in the dayes of the firſt Covenant and the Prophets; in which the Law and Com<g ref="char:EOLhyphen"/>mandements of God was given forth; yet they were bleſſed in the keeping of them, as I have before ſhewed; but <hi>Leo Letchford</hi> hath lately ſought to perſwade it would be praiſe to God, ſor me to ſay the Commandements of God could not be done without ſinning, as he and his brethren hath long believed, and hath cauſed many to believe, to their own deſtruction: And ſo hath kept people in ſinne and tranſgreſſion, and imperfection; for which they have long pleaded, and doth yet plead for their diſ<g ref="char:EOLhyphen"/>obedience to Gods Law and Commandements, from ſome fail<g ref="char:EOLhyphen"/>ings of the ſervants of God before mentioned; which were onely written to warn all not to tempt the Lord; as ſome of them tem<g ref="char:EOLhyphen"/>pted him, many of which was deſtroyed in their rebellion and diſobedience; but they who were willing and obedient, came to eat the good of the Land of promiſe. And none of them did an<g ref="char:EOLhyphen"/>ſwer the Lord when he gave them his Laws, Statutes, and Ordi<g ref="char:EOLhyphen"/>nances, Commandements and Preceps, and ſay it cannot be done, as <hi>Leonard Letchſord</hi> of
+<hi>Aurſt-Pierpoint,</hi> a metamorphoſed Miniſter in the County of <hi>Suſſex,</hi> hath lately given under his hand, by way of Quaery.</p>
+            <q>
+               <floatingText xml:lang="eng">
+                  <body>
+                     <div type="document">
+                        <head>The Paper is as followeth, <hi>September 6. 1663.</hi>
+                        </head>
+                        <p>
+                           <hi>WHether to do good, and not to commit ſin, be a perfection that any man dares challenge whileſt he lives on Earth, or whe<g ref="char:EOLhyphen"/>ther it be poſsible for any man ſo keep Gods Commande<g ref="char:EOLhyphen"/>ments, and to obſerve his righteous Law, as to ſay any day I have not offended, I have no need to ſay forgive me in any thing wherein I have done amiſs?</hi> This was the Queſtion.</p>
+                        <p>By which I have ſtruck the Devil dumb in the Quakers Oracle at <hi>Herſham,</hi> known to the World by the Name of <hi>Ambroſe Rigge;</hi> Lord open his lippes, that his mouth may ſhew forth thy prayſe, in ſay<g ref="char:EOLhyphen"/>ing plainly it cannot be done.</p>
+                        <closer>
+                           <signed>L. L.</signed>
+                        </closer>
+                     </div>
+                  </body>
+               </floatingText>
+            </q>
+            <p>Now <hi>Moſes</hi> and <hi>Abraham</hi> which I have before aſſerted, to whom the Law and Commandements was given forth, did ſo keep them and obſerve them, that the breach of them was never charged to
+<pb n="8" facs="tcp:101443:7"/> them, but was bleſſed in the keeping and doing of them, as I have before ſpoken: And <hi>David</hi> turned not aſide from any of the Com<g ref="char:EOLhyphen"/>mandments of God all his dayes, ſave in the matter of <hi>
+                  <g ref="char:V">Ʋ</g>riah;</hi> and many more who kept Gods Law and Commandments all the dayes of their lives, and was bleſſed, and their poſterity after them, and praiſed God with an upright heart, in their obedience to the Law and Commandments of God: and none of them did ever ſay, Lord open my mouth, that my lips may ſhew forth thy praiſe, in ſaying plainly thy Commandments cannot be done, as L. L. doth: If they did ſhew when or where ever ſuch a doctrine was preached by any either in the firſt Covenant or the ſecond, or elſe let thoſe faithful ſervants of God afore-mentioned, who kept Gods Law and Com<g ref="char:EOLhyphen"/>mandments, and did live with God in them, be as a thouſand witneſ<g ref="char:EOLhyphen"/>ſes againſt <hi>Leo. Letchford,</hi> who would have people believe it cannot be done.</p>
+            <p>Here followeth divers inſtances of Chriſt and his Apoſtles under the ſecond Covenant, concerning his Commandments, which I ſhall here lay down from plain Scripture proof, in order to the further diſ<g ref="char:EOLhyphen"/>covery of this damnable doctrine.</p>
+            <p n="1">1. Chriſt ſaith after he had given forth many Commandments un<g ref="char:EOLhyphen"/>to the people, He that breaketh one of theſe leaſt Commandments, and ſhall teach men ſo, he ſhall be called the leaſt in the kingdom of heaven; but whoſoever ſhall do and teach them, ſhall be called great in the kingdome of heaven, <hi>Matth.</hi> 5. 19.</p>
+            <p n="2">2. Chriſt ſaid to his Diſciples, If ye love me, keep my command<g ref="char:EOLhyphen"/>ments, <hi>Iohn</hi>
+14. 15.</p>
+            <p n="3">3. He that hath my commandments, and keepeth them, he it is that loveth me; and he that loveth me ſhall be loved of my Father, and I will love him, and manifeſt my ſelf to him,
+<hi>Iohn</hi> 14. 21.</p>
+            <p n="4">4. A new commandment I give unto you, that you love one ano<g ref="char:EOLhyphen"/>ther, <hi>Iohn</hi> 13.
+34.</p>
+            <p n="5">5. If you keep my commandments, you ſhall abide in my love, even as I kept my Fathers commandments, and abide in his love, <hi>Iohn</hi> 15. 10.</p>
+            <p>Verily, verily, I ſay unto you, If a man keep my ſayings, he ſhall never ſee death,
+<hi>Iohn</hi> 8. 51.</p>
+            <p n="7">7. All which promiſes was made unto his Diſciples upon this con<g ref="char:EOLhyphen"/>dition, That they kept his commandments, and not otherwiſe.</p>
+            <p n="8">8. To which the Diſciples anſwered, not as <hi>Leonard Letchford</hi> doth, in ſaying it cannot be done, and count this praiſe to God: but they ſaid, Hereby we know that we know him, if we keep his com<g ref="char:EOLhyphen"/>mandments, 1 <hi>Iohn</hi> 2. 3.</p>
+            <p n="9">
+               <pb n="9" facs="tcp:101443:7" rendition="simple:additions"/>9. Again they ſpoke in reproof of thoſe, who ſhould ſay they knew God, and kept not his commandments, and ſaid, ſuch were lyars, and the truth was not in them, 1
+<hi>Iohn</hi> 2. 4.</p>
+            <p n="10">10. Furthermore they teſtified, that whatſoever they asked, they received of him, becauſe they kept his commandments, 1 Ioh. 3, 22.</p>
+            <p n="11">11. He that keepth his Commandments dwelleth in him, and he in him, and hereby they knew that he did abide in them, by the Spi<g ref="char:EOLhyphen"/>rit which he gave them<g ref="char:punc">▪</g> this was their proof of him in the dayes of old, which is now ſo much condemned and cryed againſt by <hi>Leonard Lechford,</hi> and men of his coat, who ſaith none can exactly keep the commands of God, 1
+<hi>Iohn</hi> 3. 24.</p>
+            <p n="12">12. And by this they knew they loved the children of God, when they loved God, and kept his commandments, 1 <hi>Iohn</hi> 5. 2.</p>
+            <p n="13">13. Again they ſaid, This is the love of God, that they kept his Commandments, and his Commandments were not grievous, 1 <hi>Iohn</hi> 5. 3.</p>
+            <p n="14">Harken <hi>Leon. Letchford,</hi> Art not thou of another minde, who would have people ſay it cannot be done? May not all theſe riſe up in judgement againſt thee?</p>
+            <p n="15">14. And this is love, that we walk after his Commandments: 2 <hi>Iohn</hi> 6.</p>
+            <p>All theſe gave teſtimony, how they kept his Commandments, tho<g ref="char:EOLhyphen"/>row which their love was manifeſted to him, and for ſo doing, had no cauſe to repent any day, nor to ask forgiveneſs of the Lord; but yet Chriſt in their infancy taught them to ſay, Forgive us our treſpaſ<g ref="char:EOLhyphen"/>ſes, as we forgive them that treſpaſs againſt us, <hi>Matth.</hi> 6. 12. but this was before Chriſt was offered up, who purged their Conſciences from dead works by the blood of his Croſs, through the eternal Spi<g ref="char:EOLhyphen"/>rit, by which he cleanſed them from all ſin, and ſanctified them in body, ſoul, and ſpirit, which as they grew up unto God in ſtature, they bare witneſs unto; as hereafter I ſhall make appear in anſwer to <hi>Leonard Letchfords</hi> great Query concerning perfection, which may ſerve for the univerſal good and ſatisfaction of all reaſonable people, for which end I was moved to make it and my anſwer to it publick.</p>
+            <p>Prieſt <hi>Letchfords</hi> Query.</p>
+            <p>Whether to do good, and not to commit ſin, be a perfection that any man dares challenge while he is upon the earth?</p>
+            <p>Which plainly demonſtrates, that he is againſt doing of good, and for committing of ſin, and denies perfectien while people are upon the earth; which is abſolutely contrary both to the doctrine of Chriſt and his Apoſtles, and makes the coming, ſuffering, and blood of Chriſt of none effect.</p>
+            <p>1. It is contrary to the doctrine of Chriſt, <hi>Matth.</hi> 5. 48. who ſaid to his diſciples, Be ye perfect, as your heavenly Father is per<g ref="char:EOLhyphen"/>fect;
+<pb n="10" facs="tcp:101443:8"/> which was a perfection of holineſs and freedome from ſin; for otherwiſe they could not be perfect as their heavenly father was perfect:</p>
+            <p>2. Chriſt ſaid unto the young man who had kept the Command<g ref="char:EOLhyphen"/>ments from his youth, If thou wilt be perfect, ſell that thou haſt, and give to the poor, and thou ſhalt have treaſure in heaven, and come and follow me, <hi>Matth.</hi> 19. 21.</p>
+            <p>3. It is contrary to Chriſts prayer, <hi>Iohn</hi> 17. 23. who deſired that they whom God had given him might be one, as he and his father was one: He in them, and they in him, that they might be made perfect in one, &amp;c. which could never be till ſin and tranſgreſſion was finiſh<g ref="char:EOLhyphen"/>ed, which was the firſt cauſe of ſeparation.</p>
+            <p>4. To ſay that none can be perfect while he is upon the earth, is contrary to Chriſts words, who ſaid, Every one that is perfect ſhall be as his Maſter, <hi>Luke</hi> 6. 40. which agrees with his words <hi>Matth.</hi> 5. 48.</p>
+            <p>5. It is contrary to the doctrine of <hi>Paul,</hi> who ſaid, We ſpeak wiſdom among them that are perfect, 1 <hi>Cor.</hi> 2. 6.</p>
+            <p>6. It is contrary to the Apoſtles exhortation, 2 <hi>Cor.</hi> 13. 18.</p>
+            <p>7. It is contrary to all the gifts that was given to the Apoſtles, which was for the perfecting of the Saints for the work of the Mini<g ref="char:EOLhyphen"/>ſtry, for the edifying of the body of Chriſt.</p>
+            <p>Till they all came into the unity of the Faith, and of the knowledg of the Son of God unto a perfect man, unto the meaſure of the ſta<g ref="char:EOLhyphen"/>ture of the fulneſs of Chriſt, <hi>Eph.</hi> 4.
+11. 12, 13. this was a large mea<g ref="char:EOLhyphen"/>ſure of perfection indeed, which they teſtified of, which afterwards was fulfilled in them.</p>
+            <p>8. To ſay that none can be perfect while he is upon earth, makes <hi>Pauls</hi> words to the
+<hi>Philippians</hi> falſe; who though he had not then at<g ref="char:EOLhyphen"/>tained to perfection, either were already perfect; he did not ſay as <hi>Leo. Letchford</hi> doth, that none could be perfect on earth, but ſaid, he followed after it. <hi>Phil.</hi> 3. 12.</p>
+            <p>And preſſed towards the mark for the price of the high calling of God in Chriſt Ieſus, v. 14.</p>
+            <p>Let us therefore as many as be perfect be thus minded; and if in any thing ye be otherwiſe minded, God ſhall reveal this unto you, <hi>Phil.</hi> 3. 1ſt. It ſeems iome was ready to be of another minde then, as many are now, unto whom this was not fully revealed, to whom
+<hi>Paul</hi> ſaid, Whereunto we have attained: Let us walk by the ſame rule; Let us mind the ſame thing. v. 16. So that it is clearly manifeſt that there was degrees of growth in the gift of God, before they came to perfection, for <hi>Paul</hi> was not perfect while he had a body of ſin in him; and the reſt were not perfect as ſoon as they came to be convinced and believe: but firſt witneſſed a warfare againſt ſin, and
+<pb n="11" facs="tcp:101443:8" rendition="simple:additions"/> the power of it, and afterwards came to be freed from ſin, and have victory over it, <hi>Rom. 6. 17, 18, 19, 20, 21. 1 Iohn</hi> 5. 4. and then grew up to perfect men in Chriſt, to the ſame meaſure of the ſtature of the ful<g ref="char:EOLhyphen"/>neſs of Chriſt, and ſaid, by this was their love made perfect, that they might have boldneſs in the day of judgment, becauſe as he is ſo were they in this world, 1 <hi>Iohn</hi> 4. 17. (Mark) they were as he was in this world. If <hi>Leonard Letchford</hi> had been amongſt them then, ſurely he would have cryed out againſt them for ſo ſaying, and his unbe<g ref="char:EOLhyphen"/>lieving heart would not have received this doctrine, no more then he can now: for if Chriſts work had effected no more, but to leave his people ſtill in their ſins, he had done no more then the old Co<g ref="char:EOLhyphen"/>venant did, nor his blood had been no more available then the blood of Bulls and Goats, which could not take away ſin, nor his offer<g ref="char:EOLhyphen"/>ing of more force then the offerings of the old Covenant, which did not make the Comers thereunto perfect, <hi>Heb.</hi> 10. 1. and ſo was diſ<g ref="char:EOLhyphen"/>annulled, becauſe of the weakneſs and unprofitableneſs thereof, <hi>Heb.</hi> 7. 18. For the Law made nothing perfect, but the bringing in of a better hope did, <hi>verſ.</hi> 19. (Mark) the bringing in of a better hope did; this better hope was Chriſt in them the hope of glory, <hi>Col.</hi> 1. 27. who when he was brought to within the Saints, made them perfect even as he was in this world.</p>
+            <p>9. This Chriſt in the Saints the Apoſtles preached, warning every man, and teaching every man in all wiſdome, that they might pre<g ref="char:EOLhyphen"/>ſent every man perfect in Chriſt Jeſus,
+<hi>Col.</hi> 1. 28. This was the end of their preaching, to preſent every man perfect in Chriſt: and <gap reason="illegible" resp="#OXF" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> any man be in Chriſt, he is a new creature, old things are paſt away (Mark that) old things paſt away, which is ſin and tranſgreſſion, and all things are become new, 2 <hi>Cor.</hi> 5. 17. Here is the new man who is created in Chriſt Jeſus to good works, that he ſhould walk in them, <hi>Eph.</hi> 2. 10. Here is good works, in which they were to walk who was new creatures, without which their faith was dead, even as a body without a ſpirit, <hi>Iames</hi> 2. 26. I ſuppoſe this may ſtop
+<hi>Leonard Letch<g ref="char:EOLhyphen"/>fords</hi> mouth for asking, Whether to do good, and not to commit ſin be a perfection that any man dares challenge while he is on earth, <hi>&amp;c.</hi> It ſeems he dares challenge committing of ſin, but not doing good while he is upon the earth; and ſo when all that are in the graves ſhall hear the voice of the Son of God.</p>
+            <p>And ſhall come forth they that have done good unto the reſurre<g ref="char:EOLhyphen"/>ction of life, he that hath done evil and committed ſin, ſhall riſe unto the reſurrection of condemnation,
+<hi>Iohn</hi> 5. 28, 29.</p>
+            <p>10. To ſay that nothing can be perfect upon the eatth, is againſt the Apoſtles fervent labour in prayers for the Saints, which was, that thut they might ſtand perfect and compleat in all the will of God, <hi>Col.</hi> 4. 12.</p>
+            <p>
+               <pb n="12" facs="tcp:101443:9"/>11. It is againſt the end for which the Scriptures was given foth, which was, That the man of God might be perfect, thorowly fur<g ref="char:EOLhyphen"/>niſhed unto every good work, 2 <hi>Tim.</hi>
+3. 17.</p>
+            <p>12. It is contrary to the Apoſtles exhortation, to ſay that none can be perfect on earth, who ſaid, Let us go on to perfection, not laying again the foundation of repentance,
+<hi>&amp;c.</hi> Heb. 6. 1.</p>
+            <p>And theſe things we will do if God permit, <hi>verſ.</hi> 3.</p>
+            <p>13. It is contrary to the exhortation of <hi>Iames,</hi> who ſaid, Let pa<g ref="char:EOLhyphen"/>tience have its perfect work, that ye may be perfect and entire, want<g ref="char:EOLhyphen"/>ing nothing, <hi>Iames</hi> 1. 4. and ſaid, If any man offend not in word, the ſame is a perfect man, and able alſo to bridle the whole body, <hi>Iames</hi> 3. 2.</p>
+            <p>14. It is contrary to <hi>Peters</hi> prayer, who prayed, That the God of all grace, who hath called us unto his eternal glory by Chriſt Ieſus, after ye have ſuffered a while, make you perfect; <hi>&amp;c.</hi> 1 Pet. 5. 10.</p>
+            <p>15. To ſay that men muſt commit ſin while they are upon the earth, is contrary to the whole body of the Scripture, and was ne<g ref="char:EOLhyphen"/>ver affirmend by any of the holy men of God, but by ſuch deceivers as <hi>Leonard Letchford</hi> hath proved himſelf ſo to be, by pleading the devills cauſe ſo frequently, which is to keep people in ſin for term of life, which if h<gap reason="illegible" resp="#OXF" extent="1 letter">
+                  <desc>•</desc>
+               </gap> can by any means do, he knows they muſt come to him at the laſt, becauſe the Son of God hath ſpoken it, <hi>Luke</hi> 13. 27.</p>
+            <p>16. It is contrary to all theſe plain Scripture proofs, <hi>Iohn 8. 34. 1 Iohn 3. 4. 1 Iohn</hi> 3. 8. He that committeth ſin is of the devil, <hi>&amp;c.</hi>
+            </p>
+            <p>17. To ſay that none can be perfect, doth make void the Apoſtles prayers for the Hebrews, when he parted from them; who prayed, That the God of peace that brought again from the dead our Lord Ieſus Chriſt, that great ſhepherd of the ſheep, through the blood of the everlaſting Covenant.</p>
+            <p>Make you perject in every good work to do his will, <hi>Heb.</hi> 13. 20, 21.</p>
+            <p>18. To ſay that none can be perfect on earth, makes <hi>Paul</hi> a lyar, who ſatd to the Hebrews, But ye are come to Mount <hi>Sion,</hi> unto the City of the living God, the heavenly
+<hi>Ieruſalem,</hi> to the innumerable company of Angels, <hi>Heb.</hi> 12. 22.</p>
+            <p>To the general aſſembly and Church of the firſt-born which are writ<g ref="char:EOLhyphen"/>ten in heaven, and to God the Iudge of all, and to the ſpirits of juſt men made perfect, <hi>verſ.</hi> 23.</p>
+            <p>But it may be objected, That there is not a juſt man upon earth that doth good and ſinneth not.</p>
+            <p>
+               <hi>Anſwer.</hi> This was ſpoken before the coming of Chriſt, who came to deſtroy ſin, and finiſh tranſgreſſion, as it is written, 1 <hi>Iohn</hi> 3. 8.</p>
+            <p>And to ſave his people from their ſins, <hi>Mat.</hi> 1. 21. not to be fa<g ref="char:EOLhyphen"/>vour in ſin, nor to ſave his people in their ſins, but to ſave them from their ſins, and ſo from the puniſhment due thereunto.</p>
+            <p>
+               <pb n="13" facs="tcp:101443:9" rendition="simple:additions"/>
+               <hi>Objection.</hi> But ſome in their blinde ignorance will ſay, What be<g ref="char:EOLhyphen"/>nefit hath man by Chriſt, if he come to live without ſin,</p>
+            <p>
+               <hi>Anſw.</hi> He hath the benefit of the coming of Chriſt, of his Death, and of his Reſurrection, and of his blood which was ſhed for the re<g ref="char:EOLhyphen"/>miſſion of ſins, as it is written, <hi>Matth.</hi> 26. 28. And he onely can call Chriſt his Redeemer, who is redeemed from all iniquity, <hi>Tit.</hi> 2. 14.</p>
+            <p>
+               <hi>Object.</hi> Again it is ſaid in many things, We offend all, <hi>&amp;c.</hi>
+            </p>
+            <p>
+               <hi>Anſw.</hi> This was ſpoken to the brethren as a warning, not to go into the many things, nor to be many maſters; for then they ſhould receive greater condemnation: for in many things they offended all and ſo did <hi>Martha</hi> while ſhe was cumbered about many things, as Chriſt told her, <hi>Luke</hi> 10. 41. So when they went into the many things and many Maſters (as the world doth now) they offended all; but as they dwelt in the one thing which Chriſt ſpoke of, <hi>Luke</hi> 10. 42. they were kept out of the offences, and kept a conſcience void of offence towards God and all men, <hi>Acts 24. 16. 1 Cor. 6. 3.</hi> And Chriſt ſaid, Wo to the world becauſe of offences: For it muſt needs be that offences muſt come; but wo unto that man by whom they come, <hi>Mat. 18. 7. Luke</hi> 17. 1.</p>
+            <p>
+               <hi>Object.</hi> It is ſaid alſo, <hi>If we ſay that we have no ſin, we deceive our ſelves, and the truth is not in us.</hi>
+            </p>
+            <p>
+               <hi>Anſw.</hi> This was ſpoken by <hi>Iohn</hi> before he came to the fulneſs of Chriſt, though he was come to a meaſure of the Stature of Chriſt, which kept him from committing of ſin; for he ſaid, He that com<g ref="char:EOLhyphen"/>mitteth ſin is of the devil, and hath not ſeen God, neither known him, 1 <hi>Iohn</hi> 3. 8.</p>
+            <p>And whoſoever is born of God doth not commit ſin, for his ſeed remaineth in him; and he cannot ſin, becauſe he is born of God, 1 <hi>Iohn</hi> 3. 9.</p>
+            <p>Who afterwards grew up to a perfect ſtate, and ſaid, herein is our love made perfect, that we may have boldneſs in the day of Judg<g ref="char:EOLhyphen"/>ment; becauſe as he is, ſo are we in this world, 1
+<hi>Iohn</hi> 4. 17.</p>
+            <p>After which he ſaid, Whoſoever tranſgreſſeth and abideth not in the doctrine of Chriſt, hath not God; but he that abideth in the doctrine of Chriſt, hath both the Father and the Son, 2 <hi>Iohn</hi> 1. 9.</p>
+            <p>And if any come unto you, and bring not this doctrine, receive him not into your houſe, neither bid him good ſpeed: For he that biddeth him good ſpeed, is partaker of his evil deeds,
+<hi>ver.</hi> 10, 11.</p>
+            <p>Hear this <hi>Leo. Letchford,</hi> and all other of thy belief! <hi>Iohn</hi> did witneſs a further ſtate then committing of ſin, or having it; but ſaid, Whoſoever tranſgreſſeth, and abideth not in the doctrine of Chriſt, is not to be received into the houſe, leaſt they were partakers of their evil deeds. Will not this Doctrine ſhut thee and all thy brethren out of doors, who is not in the doctrine of Chriſt in any
+<pb n="14" facs="tcp:101443:10"/> thing, but pleading with all your might againſt it, which is per<g ref="char:EOLhyphen"/>fection and keeping his Commandements, as I have before ſhewed: This was hir doctrine while he was on earth, which you are now ſo much oppoſers of, and pleading for committing of ſin for term of life.</p>
+            <p>I ſhall not trouble the Reader to reckon up the Commandements and Lawes of Chriſt, they are ſo generally known to all who doth but read the Seriptures.</p>
+            <p>But I ſhall further lift up a <hi>Standard of Righteouſneſs</hi> againſt this viperous generation, who dayly breaks the Commands of God, and would perſwade others ſo to do, as
+<hi>Leo. Letchford</hi> hath done; I ſhall here demonſtrate how this ſtrikes at the Crown &amp; Dignity of Chriſt, and renders him inferiour to the devil; and then I ſhall leave it to the ſerious conſideration of the honeſt hearted, whether this man be a friend to Chriſt or an enemy to him.</p>
+            <p n="1">1. To ſay the things commanded by Chriſt cannot be done; this renders him unjuſt to command his ſervants to do that which he knows they cannot do.</p>
+            <p n="2">2. This fruſtrates the end for which God manifeſted him, which was to give power to as many as received him to become the Sons of God.</p>
+            <p n="3">3. This makes his Commands of none effect; for if the things be commands cannot be done, to what end were they given forth?</p>
+            <p n="4">4. This Doctrine renders him more unjuſt then the devil; for he giveth power to his ſervants to do all manner of Iniquity which he commands them, and they obey his commands dayly.</p>
+            <p n="5">5. This is the higheſt diſhonour that the enemies of Chriſt can bring to his Sovereignty.</p>
+            <p n="6">6. This makes the ſecond Covenant inferiour to the firſt, which is damnable Doctrine and Hereſie.</p>
+            <p n="7">7. This makes him an inſufficient Saviour who was called <hi>Ieſus,</hi> becauſe he ſaved his people from their ſins, which is the breach of Gods Law and Commandements.</p>
+            <p n="8">8. This makes the blood of the Covenant of none effect, which was ſhed to cleanſe his people from all ſin.</p>
+            <p n="9">9. This renders him an hard Maſter: (To ſay his Commands can<g ref="char:EOLhyphen"/>not he done) which none ever ſaid of him but the ſlothfull ſervant who did his talent in the earth.</p>
+            <p n="10">10. To ſay his Commands cannot be done, doth make him a lyar, who commanded his ſervants to take his yoke; upon them, for his yoke was eaſie and his burthen light.</p>
+            <p n="11">11. This is an Inlet for all the workers of Iniquity, to encourage them to break the Commands of Chriſt, and to keep them in unbe<g ref="char:EOLhyphen"/>lief all their dayes.</p>
+            <p n="12">
+               <pb n="15" facs="tcp:101443:10" rendition="simple:additions"/>12. This makes the Apoſtles teſtimony falſe; who faith, Greater is he that is in us, then he that is in the world: But this renders him inferiour to the Prince of the world, if his Commands cannot ex<g ref="char:EOLhyphen"/>actly be done without ſinning; for what is it that hinders any from keeping his Commands, but the Prince of this world, by whoſe power all who breaks his Law and Commandements are led?</p>
+            <p n="13">13. This makes <hi>Iohn</hi> a lyar, who ſaid his Commandements were not grievous but joyous.</p>
+            <p n="14">14. To ſay the things commanded by Chriſt cannot be done with<g ref="char:EOLhyphen"/>out committing ſin, as <hi>Leo. Letchford</hi> would have others ſay, doth overthrow the foundation Principles of the Book of <hi>Common-Prayer,</hi> which enjoyneth every childe to keep Gods holy Will and Commandements, and walk in the ſame all the dayes of his life.</p>
+            <p n="15">15. This makes the God-fathers and God-mothers (as they are called) Covenant-breakers; which <hi>Leo. Letchford</hi> and others of his profeſſion hath cauſed to promiſe and vow that the Childe ſhould keep Gods holy Will and Commandements, and walk in the ſame to his lifes end.</p>
+            <p>Many more damnable Conſequences incurres from this Doctrine, which are to many to mention, which is charged upon <hi>Leo<g ref="char:EOLhyphen"/>nard Letchford</hi> and all the reſt of his brethren of the ſame minde throughout this Nation, till they clear themſelves; which they can never do but by ſpeedy repentance and publick revocation of theſe their wicked Errours.</p>
+            <lg>
+               <l>Oh! return unto his mercy gate,</l>
+               <l>Whoſe patience long for you doth wait;</l>
+               <l>And learn your waies for to amend,</l>
+               <l>Leaſt God deſtroy you in the end.</l>
+            </lg>
+            <div type="part">
+               <head>¶ A few words concerning man in his fallen de<g ref="char:EOLhyphen"/>generated eſtate from God, in which he hath not power to keep the Commands of God nor his Law, nor to do any work acco<g ref="char:EOLhyphen"/>ptable to him; but all his righteouſneſs is as filthy raggs, or as a menſtruous garment.</head>
+               <p>ALL men by nature are the children of wrath, as it is written <hi>Eph.</hi> 2, 3. fallen from God &amp; his power, degenerate plants of a ſtrange
+<pb n="16" facs="tcp:101443:11"/> Vine, <hi>Ier.</hi> 2. 21. daily bringing forth evil fruit. in which God hath no delight; his heart is corrupted, his minde is corrupted, and e<g ref="char:EOLhyphen"/>very part and member of his body, from the crowne of the head to the ſole of his foot, full of wounds and bruiſes, and putrifying fores, <hi>Iſa.</hi> 1. 6. every imaginatión of his heart is onely evil conti<g ref="char:EOLhyphen"/>nually,
+<hi>cen.</hi> 8. 21. So that he is a Veſſel altogether unfit for the Lords uſe or ſervice, neither hath the Lord any delight in him in that ſtate, becauſe he is a ſlave to Satan, led captive at his will to diſho<g ref="char:EOLhyphen"/>nour his Maker in all his words and works: So that all his underta<g ref="char:EOLhyphen"/>kings and out-goings is to promote Satans kingdome. He calls evil good, and good evil, and puts light for darkneſſe, and darkneſſe for light. And is void of underſtanding, as the beaſt that periſheth. He is altogether unſenſeable of his Creator, and of his Way, Truth, and Life, becauſe they are ſpiritually diſcerned; being wholely a ſtranger to the Life of God, and to the Covenant of Promiſe, and without God in the World, in its wayes and workes of darkneſſe; drawing iniquity with Cords of vanity, and drinking it in, as the Oxe drinks water, till he fill himſelf, and vomit it up again.</p>
+               <p>In this eſtate he was compared to a dog, whoſe nature is to vomit up that which he greedily eats; and to a ſwine, whoſe nature is to wallow in the mire, as moſt pleaſing to his nature, till he hath fouled himſelf all over, that he is loathſome to behold: Even ſuch is man by nature, who wallows, in ſin and corruption, till he be loathſom in the ſight of the Lord, and fit for no ſervice for him, till he be waſhed again: and therefore the Lord cryed unto the houſe of <hi>Iſraet,</hi> Waſh ye and make ye clean, put away the evil of your doing, <hi>Iſa.</hi> 1. 16. and then come unto me, <hi>ver.</hi> 18.</p>
+               <p>In this condition mans Wiſedom is earthly, carnal, ſenſual, and deviliſh, yet by this he would compaſs the heavenly myſtery of eter<g ref="char:EOLhyphen"/>nity, and dive into the ſecrets of the Almighty, and ſet up a way of Worſhip of God in his will, and eſtabliſh a righteouſneſs of his own, and will pray, read, ſing, and perform many duties in an hot zeal, though without undetſtanding of the leaſt grain of the knowledge of God his Creator. And in this ſtate was the Iews, who killed and perſecuted the Lord of life in their darkneſs and unbelief, in a righ<g ref="char:EOLhyphen"/>teouſneſs of their own, which was as filthy rags, and as a menſtrous garment, and would not cover them from the wrath of the Almigh<g ref="char:EOLhyphen"/>ty, a juſt reward of all their ungodly deeds, unto whom Chriſt put forth many parables, and ſaid, Except a man be born again he cannot ſee the Kingdom of God, <hi>Iohn</hi> 3. 3. And except ye be converted, and become as little children, ye ſhall in no wiſe enter the Kingdom of God, <hi>Luke</hi> 18. 17. though they was whited over as whited walls, yet they were foul and corrupted, blinde and naked; therefore the wo was often pronounced againſt them, for all their zeal and profeſſion of Chriſt and the Apoſtles words.</p>
+               <p>
+                  <pb n="17" facs="tcp:101443:11" rendition="simple:additions"/>Therefore, oh natural man! who ever thou be, whether Profeſ<g ref="char:EOLhyphen"/>ſor prophane, thy profeſſion and prophaneſs are alike juſtified in the Lord, while thou art uncoverted, unregenerated, and uncreated again into that Image and nature which is from above, which can do the will and work of God well-pleaſing to him: I preach not perfecti<g ref="char:EOLhyphen"/>on to thee, but repentance, I do not ſay that thou can keep the Law of God, for then I ſhould bely thee and the truth alſo: I do not preſs thee to keep the Commandments of God, for thou will ſay with
+<hi>Leo. Letchford,</hi> it cannot be done: but this I ſay to thee, if thou wilt be wiſe, thou muſt firſt become a fool that thou may be wiſe, 1 <hi>Cor.</hi> 3. 18. but this thou canſt hardly bear, thou art ſo puffed up in the pride of thy heart in what thou performeſt unto God, though when thou haſt done all thou canſt, thou art an unprofitable ſervant, as it is written
+<hi>Luke</hi> 17. 10. which is to have his portion with hypocrites, where is weeping and gnaſhing of teeth for ever, <hi>Matth.</hi> 25. 30.</p>
+               <p>At thy hand God cannot have a ſacrifice well-pleaſing to him? if thou give thy firſt-born for thy tranſgreſſion, or the fruit for the ſin of thy ſoul, it is but as the cutting off a dogs neck, or offering Swines blood, while thy heart is corrupted thorow the deceitfulneſs of ſin; this is that with which God hath a controverſie in thee, and with thee, he will not make peace till this wall of partition be broken down, for it was that which firſt made a ſeparation between thy father <hi>Adam</hi> and him, which ſtands againſt all his ſeed and race after him; nay, it was not all the offerings and oblations throughout the firſt Covenant, which ſtood in outward things, which could ever make an atonement, ſo as to bring <hi>Adams</hi> ſtock into unity with his Creator.</p>
+               <p>Therefore this is my counſel and advice unto thee, who art in the unconverted ſtate, alienated from God, and eſtranged in thy minde from his Covenant of life, who hath any deſires in thee to return un<g ref="char:EOLhyphen"/>to the Lord who made thee, that he may ſave thee from the heat of his wrath for ever: ceaſe from thy own words, works and wayes, and be not haſty to run before thy Maker lead thee by the hand in the light of his truth, wherewith Chriſt hath lighted thee,
+<hi>Iohn</hi> 1. 9. which ſhineth in thy dark heart, 2 <hi>Cor.</hi> 4. 6. ſo ſhall not thou abide in dark<g ref="char:EOLhyphen"/>neſs, but ſhall receive the light of life, <hi>Iohn</hi> 8. 12. Harken unto his voice; who ſtands at thy door and knocks, and would have thee re<g ref="char:EOLhyphen"/>ceive him into thy heart, which is his Throne, upon which he muſt ſit as King, if ever he receive thee into protection with him, there he muſt work the Fathers will in thee, which is to purifie thee through<g ref="char:EOLhyphen"/>out in body, ſoul, and ſpirit, without which thou canſt never be a veſ<g ref="char:EOLhyphen"/>ſel of honour to God to ſet forth his praiſe and glory in the earth; his righteouſneſs he muſt work in thee by his right hand, which muſt co<g ref="char:EOLhyphen"/>ver thee for ever, and thou muſt be crucified upon his Croſs from all thy own righteouſneſs and unrighteouſneſs, which did all ſpring from
+<pb n="18" facs="tcp:101443:12"/> the ſeed of enmity, in which God had no delight, before thou know the peace of God, which paſſeth all underſtanding, to keep thy heart and minde. All this thou wilt find true in the day of thy viſitation, however the falſe Prophets may perſwade thee to the contrary, that will all deceive thee in the day of the Lords fierce indignation, when every one ſhall receive a reward according to their deeds: This is a hard ſaying to thee who is yet alive in the fulneſs of delight and plea<g ref="char:EOLhyphen"/>ſure in the fleſh, to tell thee of dying to thy own righteouſneſs and unrighteouſneſs, before thou come to live to God: This is a bitter cup to thee, of which thou muſt be willing to drink, before thou teſte of the Cup of bleſſing, which is the Communion of the blood of Chriſt, 1 <hi>Cor.</hi> 10. 16. thou muſt ſuffer with him who dyed upon the Croſs, before thou know the vertue ol his reſurrection; thou muſt put off the old man, with his deeds, before thou put on the new man, <hi>Eph.</hi> 4, 22, 23, 24. Thou muſt purge out the old leven of uncleanneſs, and the old bottle muſt be broken, before thou keep a ſeaſt of unleavened bread, 1 <hi>Cor.</hi> 5. 7, 8, as a Paſſeover unto the Lord.</p>
+               <p>This is the footſteps of the flock, in which thou muſt walk before Chriſts righteouſneſs; he thine, thou muſt buy the truth with the loſs of all that is contrary to it, if ever thou truly purchaſe it, ſo as to be thine for ever. This is the word of the Lord God unto thee, which muſt be fulfilled in or upon thee. Let no man deceive thee through vain word;, of ſuch as tells thee God looks upon thee not as thou art in ſin, but as thou art in Chriſt. Oh poor deluded wretch, this is the deceiveableneſs of righteouſneſs indeed, which would make God as unrighteous as themſelves, to look upon a man in Chriſt when he is not; but in ſin and tranſgreſſion. Oh give not heed to ſuch lying vanities, leſt thou forſake thy own mercies for ever. For becauſe of thoſe things hath come the wrath of God upon the children of diſobedience, <hi>Epheſ.</hi> 5. 6. <hi>Coll.</hi> 3. 6. He that ſaith to the wicked, thou art righteous, him ſhall the Nations curfe, and people ſhall abhor him,
+<hi>Prov.</hi> 24. 24. I ſay God looks upon thee as thou art, art, who will not juſtifie thee in ſin, nor hold thee guiltleſs in tranſ<g ref="char:EOLhyphen"/>greſſion, but will wound the head of his enemies, and the hairy ſcalp of ſuch a one as goeth on ſtill in his treſpaſſes,
+<hi>Pſal.</hi> 68. 21. there<g ref="char:EOLhyphen"/>fore return, return unto the Lord by ſpeedy repentance, and kiſs the Son leſt he be angry, and thou periſh from the way of life; for if his wrath be kindled, bleſſed are they that truſt in him, <hi>Pſal.</hi> 2. 12.</p>
+               <p>I tell thee again, I am not ſent to preach perfection unto thee, but the day of the Lords vengeance ane recompence. I am not to daub thee with untempered morter, as the falſe Prophets hath done many years, to cry peace to thee in iniquity, to whom the Lord ſaith, No peace,
+<hi>Ifa.</hi> 48. 22. chap. 57. 21. Therefore ceaſe from man, and from ſpending thy money for that which is not bread, and thy labour for
+<pb n="19" facs="tcp:101443:12" rendition="simple:additions"/> that which ſatisfieth not, <hi>Iſa.</hi> 55. 2. if thou art, or has been feed<g ref="char:EOLhyphen"/>ing among the Swine upon the husk, and wallowing in the mire among them, and ſatisfying thy ſelf with a profeſſion of the Saints words outwardly. as they are written in the Letter of the Scripture, while thou art a ſtranger to that life in which they lived who writ them forth.</p>
+               <p>Oh this is as chaffe to the wheat, which is the inward profeſſion of the life and righteouſneſs of the Son of God, therefore return unto the Fathers houſe (which is the light in which God dwelleth, 1 <hi>Tim.</hi> 6. 16.) ſo will he meet thee, and embrace thee, and rejoyce over thee, and ſatisfie thee with bread enough, <hi>Lnke</hi> 15. 17, 18, 19, 20. yea with the fatted calf (his own crucified one) of which thou ſhalt feed and never hunger more.</p>
+               <p>This I was warned by the Lord to lay before all who are yet in <hi>Ba<g ref="char:EOLhyphen"/>bylon</hi> and
+<hi>Egypt,</hi> that they may flie out and eſcape from her ſins, leſt they pattake of her plagues, as it is writeen, <hi>Kev.</hi> 18. 4. for the hour of her judgement is comes and the execution will ſpeedily follow, which will leave the wicked neither root nor branch.</p>
+               <p>Therefore let your laughter be turned into mourning, and your joy into heavineſs, for God hath clothed himſelf with a garment of vengeance, and with zeal, as with a cloak, <hi>Iſa.</hi> 59.
+17. and no un<g ref="char:EOLhyphen"/>clean thing ſhall now ſtand before him. Howl ye oaks of Baſhan, and ye Cedars of Lebanon, the Lord hath haid his axe to your roots, and your ſtrength and tallneſs muſt come down; for your fruit hath been the fruit of Sodom, and your grapes the grapes of Gomorrah, you have long cumbred the ground, even till it is weary with you, and is ready to vomit you up; therefore bow your ſelves unto the mighty God of Iacob, before he cut you down, and caſt you into the fire of his jealouſie for ever; and tremble at the preſence of him, whoſe word is gone forth even from Dan to Beerſheba, 2 <hi>Chroo.</hi> 3. 5. for he is the God of the whole earth, and before him all Nations are as the drop of a bucket, <hi>Iſa.</hi> 40. 15. who hath meaſured the waters in the hollow of his hand, and meted the heavens with a ſpan, and comprehended the duſt of the earth in a meaſure, and weighed the mountains in ſcales, and the hills in a ballance, <hi>Iſa.</hi> 40. 12. who will render to every man according to the fruit of his doings; therefore while thou has a little time. prize it, leſt the day of thy viſitation paſs away, and the day of wrath come upon thee as a thief in the night 1 <hi>Theſſ.</hi> 5.
+2.</p>
+            </div>
+            <div type="part">
+               <pb n="20" facs="tcp:101443:13"/>
+               <head>Here followeth an Invitation of Love to all peo<g ref="char:EOLhyphen"/>ple, to come unto the Fountain of Fountain of Living Wa<g ref="char:EOLhyphen"/>ters, which is now open, that they may drink and be ſatisfied, and never thriſt more.</head>
+               <lg>
+                  <l>OH all ye Nations of the earth, ye people every where;</l>
+                  <l>Let me invite you to come forth the voice of Chriſt to hear.</l>
+                  <l>By whom the Lord will now declare his righteouſneſs and truth</l>
+                  <l>Unto the Nations every where, that they may now come forth</l>
+                  <l>Of that great bondage unto ſin, in which their ſouls doth mourn:</l>
+                  <l>And that you all may now begin unto the Lord to turn.</l>
+                  <l>That he may ſave your ſouls alive, for his own mercy ſake;</l>
+                  <l>Of which he will not now deprive all them that do awake,</l>
+                  <l>And follow him whom God hath ſent his Law for to fulfil:</l>
+                  <l>Which perfectly cannot preſent compleatly in his will.</l>
+                  <l>Nor by its works cannot mankinde be juſtifi'd with him,</l>
+                  <l>Until he come this Chriſt to finde, with whom I did begin:</l>
+                  <l>And his own righteouſneſs obtain, which he for them hath wrought,</l>
+                  <l>In bearing of that mortal pain when he the reto was brought.</l>
+                  <l>By which he fully ranſomed all thoſe who did believe;</l>
+                  <l>And death he then abandoned, and raiſed from the grave.</l>
+                  <l>
+                     <pb n="21" facs="tcp:101443:13" rendition="simple:additions"/>Him hath God raiſed now again in this the latter day;</l>
+                  <l>Who muſt for ever now remain as <hi>Moſes</hi> once did ſay.</l>
+                  <l>Even <hi>Iſraels</hi> Shepherd, and their Rock, to ſave them from their ſin:</l>
+                  <l>Who now doth ope unto his knock, and him receive within.</l>
+                  <l>He'll give them power his ſons to be, his danghters eke alſo;</l>
+                  <l>And give them perfect victory over their internal foe.</l>
+                  <l>But firſt he ll purifie their hearts by his own precious blood,</l>
+                  <l>And quench the enemies fiery darts, when they come as a ſtood.</l>
+                  <l>He'll ope to them his fountain ſweet that they thereof may drink:</l>
+                  <l>And when they paſs the Lake ſo deep, therein they ſhall not ſink.</l>
+                  <l>The waters he'll divide, that they way paſs through without harm,</l>
+                  <l>And <hi>Pharaoh</hi> and his hoſt deſtroy, That they his fear may learn.</l>
+                  <l>And bring them through the wildenreſs, wherein he'll try their faith;</l>
+                  <l>That they may know his righteouſneſs, and ſee his ſaving health.</l>
+                  <l>He'll bring his royal choſen flock thorow many tribulations:</l>
+                  <l>And ſuffer many them to mock, to exerciſe their patience.</l>
+                  <l>And many other tryals great he'll ſuffer them to bear,</l>
+                  <l>Too many now for to repent, that they his Crown may wear.</l>
+                  <l>Thorow which he'll purge away their droſs, their Tynne alſo conſume,</l>
+                  <l>And nothing in them ſhall be loſt, that with him muſt have room.</l>
+                  <l>And when he thus hath brought them nigh unto his habitation,</l>
+                  <l>He'll fill their mouths with praiſes high, and ſhew them his ſalvation.</l>
+                  <l>
+                     <pb n="22" facs="tcp:101443:14"/>That they may ever with him dwell in joy and laſting reſt,</l>
+                  <l>And tryumph over death and hell, by which they were oppreſt.</l>
+                  <l>In that ſtrait path of righteouſneſs in which he did them bring</l>
+                  <l>To ſee his truth and faithfulneſs, that they his praiſe might ſing.</l>
+                  <l>Therefore ye people great and ſmall, unto the Lord return;</l>
+                  <l>Incline your ears to hear his call, that he may now confirm</l>
+                  <l>His promiſe made to Iſrael, if they his face did ſeek;</l>
+                  <l>Their enemies for to expel for his own mercy ſake.</l>
+               </lg>
+            </div>
+            <div type="part">
+               <head>A Teſtimony concerning the ſpiritual man, who is begotten of God, through the spirit, by the Immortal Word of God, which liveth and abi<g ref="char:EOLhyphen"/>deth for ever, and hath received the spirit of Adoption, whereby he cries Abba Father.</head>
+               <p>AS there is a natural man who is corrupted after the deceitful luſts, ſo there is a ſpiritual man, who is born of the Spi<g ref="char:EOLhyphen"/>rit, and hath the promiſe of Eternal Life, thorow the A<g ref="char:EOLhyphen"/>doption (<hi>viz.</hi>) the redemption of the body, he is made an habitation of God thorow the Spirit, in whom God dwells and walks, according to his promiſe of old, 2 <hi>Cor.</hi> 6, 16. he walketh in the Spirit, and doth not fulfill the luſts of the Fleſh, in him hath God great delight, and giveth him wiſdom, power, ſtrength, and a<g ref="char:EOLhyphen"/>bility to do whatſoever he commands him, and he can do all things thorow him whom is his ſtrength, <hi>Phil.</hi> 4. 13. The Commande<g ref="char:EOLhyphen"/>ments of God are not grievous, but joyous to him, nay they are his onely delight, and this keeps him in love and favour with God; ſo that he with-holds no good thing from him,
+<hi>Pſal.</hi> 84. 11. but gives him of the abundance of his heavenly treaſure: He ſeeds him with the Heritage of <hi>Iacob,</hi> even with the fineſt of the wheat, and with honey out of the Rock, <hi>Pſal.</hi> 81. 16. he opens his Breſts of Conſo<g ref="char:EOLhyphen"/>lation
+<pb n="23" facs="tcp:101443:14" rendition="simple:additions"/> to him, out of which delight ſome refreſhment comes, where<g ref="char:EOLhyphen"/>by he grows in the beauty of holineſſe, in his mouth is the high praiſes of the as a two-edged ſword in his hand, thorow which he executes vengeance upon the heathen, and puniſhment upon the people, <hi>Pſal.</hi> 149. 7. As the natural man is wife to do evil, He is wife to reſiſt evil, ſo that it doth not come nigh unto his honſe, yea though evil purſue the wicked, yet to him there is a Tree of Life, <hi>Prov.</hi> 13. 21. upon which he ſeeds, and lives for ever.</p>
+               <p>He is ſtout and valorous, even as bold as a Lion, <hi>Prov.</hi> 28. 1. he fears not the ſwelling of the Sea, he is not afraid of the terrour of the night, nor of the arrow that flieth by day, <hi>Pſal.</hi> 9<gap reason="illegible" resp="#OXF" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>. 5. the Law of Truth is in his mouth, <hi>Mal.</hi> 2. 6. ſo that his ſteps cannot ſlide, he calls no man Father upon Earth, nor no man Maſter be<g ref="char:EOLhyphen"/>low the Sun, <hi>Mat.</hi> 23. 9, 10. for he is born of God, and receiveth his Law from his mouth, he is Created again in Chriſt Jeſus unto good works, that he may live in them. He lives by every word that pro<g ref="char:EOLhyphen"/>ceedeth out of the mouth of God, <hi>Mat.</hi> 4.
+4. over him death nor darnkneſſe hath not power, but he ſtands in the glorious liberty of the Sons of God, a free born ſon and heir of God, a joynt Heir with Chriſt Jeſus, <hi>Rom.</hi>
+8. 17. he grows up in the meaſure of the ſtature and of the fullneſſe of Chriſt, unto a perfect man, as it is written of him, <hi>Eph.</hi> 4. 13. but this is a miſtery to the natural man, even as the winde blows where it liſteth, and he hears the ſound thereof; but knows not whence it comes, nor whither it goes, <hi>Iohn.</hi> 3. 8. even ſo is every one that is born of the Spirit.</p>
+               <p>Therefore they who are of the fleſh, they minde the things of the fleſh, and they who are of the Spirit the things of the Spirit. And as many as are led by the Spirit of God, they are the Sons of God, <hi>Rom.</hi> 8. 14. but the natural man perceiveth not the things of the Spirit of God, for they are fooliſhneſſe to him, 1 <hi>Cor.</hi> 2. 14. but the ſpiritual man judgeth all things, and he himſelf is judged of no man, 2 <hi>Cor.</hi> 2. 15. And this is that noble birth which God hath brought forth in many at this day, unto whom we preach perfection and free<g ref="char:EOLhyphen"/>dome from the law of ſin and death, which is the ſame wiſdome which <hi>Paul</hi> ſaid he preached among them that was perfect, 1 <hi>Cor.</hi> 2. 6, 7. But this the carnal man cannot endure to hear of, who receives not the things of the ſpirit of God, as it is written of him, 1 <hi>Cor.</hi> 2.
+14. Therefore it is no marvel why <hi>Leonard Letchford</hi> cannot receive this doctrine of perfection, which the holy men of God held forth unto the ſpiritual man ſo plentifully throughout the Scripture of truth, as I have ſhewed before to all, who with a ſpiritual eye diſcerneth the things of God by which they are only known, 1 <hi>Cor.</hi> 2. 11. but they are fooliſhneſs and madneſs to ſuch ſons of Belial, as <hi>Leo. Letchford</hi>
+                  <pb n="24" facs="tcp:101443:15"/> hath manifeſted himſelf to be; whoſe Query is:</p>
+               <p>Whether to do good, and not to commit ſin be a perfection that any man dares challenge while he is upon the earth, &amp;c.</p>
+               <p>By which it manifeſtly appears, that he hath made a ſtrong Cove<g ref="char:EOLhyphen"/>nant with death, and an agreement with hell, who dares challenge no perfection, but to do evil and commit ſin, and that for term of life; and would perſwade others ſo to do, and make them believe this is praiſe to God, which is the higheſt diſgrace he can poſſibly bring to his Name, and the moſt for the promoting of that anti<g ref="char:EOLhyphen"/>chriſtian doctrine of the Church of <hi>Rome,</hi> that the devil can lead any of his ſervants to give forth. For it is wholly raked out of that kennel and filthy puddle of iniquity, and never once mentioned in the Scriptures of truth, but condemned thereby root and branch, as I have ſhewed above. By which let all ſober-hearted men judge, whe<g ref="char:EOLhyphen"/>ther
+<hi>Iohn</hi> or he is to be believed, who ſaid, He that committeth ſin is of the Devil,
+<hi>&amp;c. I Iohn 3. 8.</hi> And whoſoever is born of God doth not commit ſin, for his ſeed remaines in him, and he cannot ſin, be<g ref="char:EOLhyphen"/>cauſe he is born of God; then ſaid, In this is the children of God manifeſted, and the children of the Devil: Whoſoever doth not righteouſneſs is not of God, neither he that loveth not his brother, I <hi>Iohn 3. 9, 10.</hi> and by this they will ſoon ſee whether <hi>L. L.</hi> be a childe of God or of the Devil, who would perſwade others, that to do good and not to commit ſin is that which none dares challenge upon the earth, and that it would be praiſe to God to ſay his Commandements cannot be done without ſinning or offending; this cannot be paral<g ref="char:EOLhyphen"/>lel'd in all the Scripture, if it can, I leave it to <hi>Leo. Letchford</hi> to pro<g ref="char:EOLhyphen"/>duce; if it cannot, I leave him naked to all the world to judge of him in truth, equity, and righteouſneſs, whether this doctrine of ſin and imperfection doth not overthrow all the works and ſufferings of Chriſt the Son of God, and eſtabliſh the work of the Devil for term of life, yea or nay.</p>
+               <p>Therefore oh! thou begotten of God, who art born again of the water and of the ſpirit, give in thy evidence who ever thou art againſt this unheard of Hereſie, which God will confound with the breath of his mouth and with the brightneſs of his ſhining glory. Which is ariſen and ariſing to expell all theſe foggs, miſts and vapours which the man of ſin hath overſpred the earth withall in this long night of darkneſs and apoſtacy from the life of God, wherein the great Whore that hath ſitten upon many waters hath made all Nations drunk with the wine of her fornication, <hi>Rev. 17. 1, 2. &amp; 18. 3.</hi> and hath ſitten a a Queen and ſeen no ſorrow; and all her miniſters hath pampered themſelves like fat horſes in the ſulneſs of the earth, and hath made merchandiſe of many through covetouſneſs and feigned words, 2
+<hi>Pet. 2. 3.</hi> this ſixteen hundred years and upward ever ſince the Anti<g ref="char:EOLhyphen"/>chriſts
+<pb n="25" facs="tcp:101443:15" rendition="simple:additions"/> went out into the world, who hath continued in the world to this day, I
+<hi>Iohn 2. 18.</hi> deceiving the Nations with the multitude of their Inchantments; but now is the day of the Lord broken forth in clearneſs again in this latter age, which hath diſcovered her skirts with all her merchants, who is worſe then <hi>Balaam</hi> the ſon of <hi>Boſor,</hi> who though he loved the wages of unrighteouſneſs, durſt not take it, <hi>Num. 22. 18.</hi> and 24. 13. but they love and take it, and perſecute all thoſe who will not give it to them, as we have a cloud of witneſ<g ref="char:EOLhyphen"/>ſes ſtanding upon record againſt them at this day, their actions hath been more cruel then ever was any of their ſore-fathers, the Pope excepted, as thou who art ſpiritual has clearly ſeen I queſtion not, but their end ſhall be according to their works,
+<hi>Cor 11. 15.</hi> what ever their words are, the mouth of the Lord hath ſpoken it.</p>
+            </div>
+            <div type="part">
+               <head>Here is the way which leadeth to the King<g ref="char:EOLhyphen"/>dome of God in ſhort, held forth to all who are willing to enter therein.</head>
+               <p>AS Satan by ſin and tranſgreſſion hath opened a way into eternal miſery and condemnation from God, for all who followes and obeyes him: So God in his infinite love and mercy by Jeſus Chriſt hath opened a gate of mercy unto all mankinde, and hath prepared a way of life, peace, and eternal ſalvation, that all who are willing to walk therein may attain thereunto: This way is called the way of Holineſs, which the unclean ſhall not paſs over; the wayfareing man, though a fool, ſhall not err therein, <hi>Iſa. 35. 8,</hi>
+               </p>
+               <p>This way is a myſtery to all the Sons of <hi>Adam,</hi> and is ſtrait and narrow, and few there be that finde it, <hi>Matth. 7. 14.</hi> but the way which leads to deſtruction is wide and broad; and all the unclean, yea all the workers of Iniquity can walk therein, <hi>Matth. 7.
+13.</hi> So there is but theſe two wayes for all mankinde to walk in; the one leads to life eternal, and the other to eternal death.</p>
+               <p>Now the Lord hath opened my heart a little to ſhew unto every one the way of life, which is Chriſt Jeſus, <hi>Iohn 14. 6.</hi> And that by which they may be brought into this way, according as the Spirit of God ſhall give me utterance. It is written in the Scriptures of truth, of a Woman having ten pieces of ſilver; if ſhe looſe one, doth light a candle, and ſweepeth her houſe, and ſeek diligently till the finde it, and when ſhe hath found it. calleth in her friends and neighbours to<g ref="char:EOLhyphen"/>gether, ſaying, Rejoyce with me, for I have found the piece which I had loſt, <hi>Luke 15. 8, 9.</hi> This was a Parable of the way of Life, which was to be found within when the candle was lighted; &amp; thy houſe ſwept,
+<pb n="26" facs="tcp:101443:16"/> Which is thy heart, which is ſoul and corrupted by the enemy of thy ſoul, who hath led thee from mountain to hill (like a loſt ſheep) I mean from one High Prieſt to another, ſo that thou haſt ſorgotten thy reſting place, <hi>Iſa.</hi> 50. 6. Therefore hath the good Shepherd left the ninety and nine in the Wilderneſs, and is gone after thee which is loſt in the mountains, and will lay thee upon his ſhoulders, till he bring thee home, and rejoyce over thee, <hi>Luke</hi> 15. 4, 5. And when thou art come in, thou ſhall be ſed in a good paſture by the rivers of water, where thou ſhalt not want, <hi>Ezek.</hi> 34 14. and thy ſoul ſhall delight it ſelf in fatneſs and ſhall live, <hi>Iſa.</hi> 55. 2. For the Lord will be thy Shepherd, and thou ſhalt be eſtabliſhed in Righteouſneſs, and great ſhall be thy peace, <hi>Iſa.</hi> 54. 13. and thou ſhalt not need to ſay, Who ſhall aſcend into heaven to ſetch Chriſt from above? nor who ſhall deſcend into the deep to ſetch him from beneath? but the Word ſhall be nigh thee in thy heart, and in thy mouth, according as'tis ſaid,
+<hi>Rom. 10. 8. Deut.</hi> 30. 14. This will be a Lamp to thy ſeet, and a Light to thy path,
+<hi>Pſal.</hi> 119. 105. to guide thee in the way of truth and peace, and will give thee the light of the knowledge of the Glory of God in the face of Ieſus, 2 <hi>Cor.</hi> 4. 6.</p>
+               <p>So let every one ſearch his own heart, and light the candle there, that he may ſinde the word of faith there to guide him: this word <hi>David</hi> hid in his heart, that he might not ſin againſt God, <hi>Pſal.</hi> 119. 11. This is the word of ſaith which I preach unto thee, that thou may come to hear &amp; receive it, whereby faith may be wrought in thy heart, to give thee victory over the world, ſin, death, and darkneſs, and the grave, which hath long ſeparated thee from God; And then ſhalt thou witneſs him thy Redeemer, even the Holy One of
+<hi>Iſrael.</hi> But if thou ask me what muſt lead the to this Redeemer, I anſwer, The Law of God which he hath written in thy heart, according to his promiſe in the ſecond Covenant,
+<hi>Ier.</hi> 31. 31, 32, 33. which Law was the Apoſtles Schoolmaſter to bring them to Chriſt, that they might be juſtified by faith, <hi>Gal.</hi> 3. 24. This Law will be thy School<g ref="char:EOLhyphen"/>maſter to bring thee to Chriſt, that thou may be juſtified by faith, and not by works, of the Law: this will be a preſent Teacher with thee at all times, and in all places, and will never let thee do evil, nor do that to another thou would not that he ſhould do unto thee. It will bring thee to love the Lord with all thy heart, and thy neighbour as thy ſelſe, as it is written in the Law of <hi>Moſes;</hi> yea, when thou turneſt to tho right hand or to the leſt, thou ſhalt hear a voice behinde thee, ſaying, This is the way, walk in it,
+<hi>Iſa.</hi> 30. 21. But thou may object and ſay, Shall I not go to hear Sermons from learned men, ſuch as are brought up at <hi>Oxford</hi> or <hi>Cambridge?</hi> I ſay, ceaſe from man, even from all them who keeps thee from the Law written in thy heart, for ſuch hath no light in them, <hi>Iſa.</hi> 8. 20. Such are blinde Guides, and
+<pb n="27" facs="tcp:101443:16" rendition="simple:additions"/> would keep thee from this Law which is light, <hi>Pro.</hi> 6. 23. loaſt it ſhould diſcover their darkneſs unto thee, &amp; that they may lead thee in blinde<g ref="char:EOLhyphen"/>neſs and darkneſs which leads to the chambers of Death, <hi>Pro.</hi> 7. 27. And that thou may ſpend all thy ſubſtance upon the Phyſitians, as the woman had done, and yet was not cured, till ſhe came to Chriſt, <hi>Luke</hi> 8. 43, 44. As thou Wilt not be till thou come to be led to him by that which manifeſts both thy deeds of darkneſs and theirs alſo, who hath applyed ſalve to thy wounded ſoul, before they have cleanſed out the filthy rotten corrupted ulcers with which thy ſoul hath been load<g ref="char:EOLhyphen"/>ed, ſo their ſalve hath taken no impreſſion, nor been available at all unto thee, ſo that they have been Phyſitians of no value,
+<hi>Iob</hi> 13. 4. but thy corruptions hath prevailed upon thee till all thy money is ſpent. Oh therefore hearken unto him who ſtands at thy door and often knocks. If thou wilt open thy door, he will come in to thee and will ſup with thee, and thou ſhalt ſup with him, <hi>Rev.</hi> 3.
+20. Then ſhalt thou know the Supper of the Lord, even a Feaſt of unleavened bread.</p>
+               <p>If thou wilt receive him, he will cleanſe thy ſores and lance thy wounds like the good Phyſitian, and reach the living ſenſible part in thee, that the Corruption hath not prevailed againſt, and nothing elſe he will ſuffer to remain within, that he may thorowly cure thee, and make thee perfectly whole in body, ſoul, and ſpirit, and then he will pour in the oyle of Joy for the ſpirit of heavineſs, that thou may be called a Tree of Righteouſneſs, the Planting of the Lord, <hi>Iſa.</hi> 61. 3.</p>
+               <p>Then ſhall the light of the Moon be as the light of the Sun; and the light of the Sun ſhall be ſeven-ſold, as the light of ſeven dayes, in the day when the Lord bindeth up thy breach &amp; healeth the ſtroke of thy wound, <hi>Iſa.</hi> 30. 26. then ſhalt thou who hath been deaf hear, and thy blinde eye ſhall be opened, and ſhall ſee out of obſcurity and out of darkneſs, <hi>Iſa.</hi> 29. 18. And thou ſhalt encreaſe thy joy in the Lord, and rejoyce in the Holy One of <hi>Iſrael,</hi> verſe 19. then ſhall Iudgment dwell in the wilderneſs which thou ſhalt love, and righte<g ref="char:EOLhyphen"/>ouſneſs in the fruitfull field in which thou ſhalt dwell, and the work of Righteouſneſs ſhall be Peace, and the effect of Righteouſneſs quietneſs and aſſurance for ever, <hi>Iſa.</hi> 32. 16, 17. Then ſhall thy ſoul delight it ſelf in the Lord its Redeemer, and magnifie the name of the God of <hi>Iſrael</hi> all thy dayes.</p>
+               <p>And thou ſhall not need to be taught of thy neighbour or of thy brother brother to know the Lord, for thou ſhalt know him, and be taught of him, and great ſhall be thy peace, according to the words of <hi>Ieremiah, Ier. 31. 34. Iſa. 54. 13. Iohn</hi> 6. 45. and the anointing wherewith he hath anointed thee ſhall abide in thee, and thou ſhalt not need any man to teach thee but as the anointing teacheth thee of all things, and is truth and is no lye, and even as it teacheth thee thou ſhalt abide in
+<pb n="28" facs="tcp:101443:17"/> him, 1 <hi>Iohn</hi> 2. 27. Theſe things I have written to thee concerning any that would ſeduce thee from this inward teacher, <hi>ver.</hi> 26. That if any come to thy houſe and bring not this doctrine, bid him not God ſpeed, leaſt thou be partaker of his evil deeds; yea, if, I, or an Angel from heaven preach any other doctrine, let us be accurſed, and let God give no more increaſe to our work, then he hath done to the work of the Prieſts this many hundred years.</p>
+               <p>Therefore ceaſe from man whoſe breath is in his noſtrils, and hearken unto him by whom God ſpeaks in theſe laſt dayes, as thou may reade, <hi>Heb.</hi> 1. 1. who ſaith, Learn of me and you ſhall finde reſt for your ſouls, <hi>Mat.</hi> 11. 29. He will be a ſufficient teacher unto thee in all the wayes of righteouſneſs, and be a wall unto thee in the time of ſtorm, and a ſhadow unto the time of heat, <hi>Iſa.</hi> 25. 4. yea, he will be they Shepherd, and ſpread thy table in the ſight of thy enemies, <hi>Pſal.</hi> 23. 1, 2, 3, 4, 5. and he will lead thee into green paſtures by the rivers of water, and will reſtore thy ſoul to praiſe and glorifie his name for ever.</p>
+               <lg>
+                  <l>EVen all theſe things in mercy great</l>
+                  <l>hee'l bring to paſs for thee,</l>
+                  <l>If thou wilt now upon him wait,</l>
+                  <l>his ſaving health to ſee.</l>
+                  <l>Hee'l take thee from the lake ſo deep,</l>
+                  <l>out of the mire and clay,</l>
+                  <l>And on a rock hee'l ſet thy feet,</l>
+                  <l>and will divert thy way:</l>
+                  <l>And bring thee to that laſting reſt,</l>
+                  <l>which he prepar'd for thee,</l>
+                  <l>Before he formed Eaſt or Weſt,</l>
+                  <l>in his heavenly decree.</l>
+                  <l>Therefore I warn thee to return</l>
+                  <l>unto the Lord, that he</l>
+                  <l>May all his promiſes confirm,</l>
+                  <l>that happy thou mayſt be:</l>
+                  <l>Which he will make thee in the end,</l>
+                  <l>if thou his law regard;</l>
+                  <l>And learn thy way for to amend,</l>
+                  <l>by cleaving to his word.</l>
+               </lg>
+               <closer>
+                  <signed>This is written from a true lover of thy ſoul, whoſe name is, AMBROSE RIGGE.</signed>
+               </closer>
+            </div>
+            <div type="part">
+               <pb n="29" facs="tcp:101443:17" rendition="simple:additions"/>
+               <head>The difference between the true Goſpel and the falſe, truly stated and clearly demonstrated; that all people may ſee and read which Goſpel they have received and obeyed this many years, whether the true Goſpel, or the falſe.</head>
+               <p>THe true and everlaſting Goſpel of Ieſus Chriſt the Son of God, is glad tidings of good things; which is remiſſion of ſins, and reconciliation to God by Ieſus Chriſt, <hi>Luke
+1. 19. Luke</hi> 8. 1. which was preached to give the knowledge of falvation unto all people by the remiſſion of ſins, <hi>Luke</hi> 1. 77. So here it manifeſtly appears, that this Goſpell was preached to give the knowledge of ſalvation to all people, which knowledge was onely received by the remiſſion of ſins.</p>
+               <p>The falſe Goſpel of Antichriſt the man of ſin is ſad tidings of bad things, wherein there is no remiſſion of ſins, but a continual slave<g ref="char:EOLhyphen"/>ry unto ſin and Satan all mans dayes, according as it is and hath been taught by the teachers of this generation, which is as contrary to the true Goſpel as light is to darkneſs.</p>
+               <p>The true Goſpel its meſſage is to turn people from darkneſs to the light, and from the power of Satan unto God, that they might receive forgiveneſs of ſins, and an inheritance amongſt them that are ſanctified by faith in the Son, <hi>Acts</hi> 26. 18.</p>
+               <p>The meſſage of the falſe Goſpel is, that people can never come from under the power of Satan, but muſt have a body of ſin as long as they live, which is ſad tidings, and not glad tidings; for he that hath been under a tyrants power from his mothers womb, for another to pretend freedom to him, and take his money as though he would bring him to Chriſt who would free him, and yet in the end tell him he muſt remain under the power of this tyrant all his dayes, this is ſad tidings to him, who hath both ſpent his money, and is neither redee<g ref="char:EOLhyphen"/>med, nor now hath any hopes ever to be while he lives; and ſuch is the falſe Goſpel at this day.</p>
+               <p>The meſſage of the true Goſpel is a proclamation of liberty and freedom to all Captives, who hath been impriſoned in ſin and tranſ<g ref="char:EOLhyphen"/>greſſion, wherein the blood of Chriſt is freely held forth for the re<g ref="char:EOLhyphen"/>miſſion of ſins, <hi>Mat.</hi> 26. 28.</p>
+               <p>The meſſage of the falſe Goſpel is continual captivity in ſin, and never liberty nor freedom from it, as we have ſeen by many years ſad experience.</p>
+               <p>
+                  <pb n="30" facs="tcp:101443:18"/>The true Captain of ſalvation ſaith, Follow me, and thou ſhalt finde reſt to thy ſoul, <hi>Mat.</hi> 11. 29.</p>
+               <p>The falſe Leader ſaith, Thou ſhalt never overcome, but be in a con<g ref="char:EOLhyphen"/>tinual warfare, and ſhall never come to peace nor reſt here, which is ſad news indeed.</p>
+               <p>The Meſſengers of the true Goſpel ſaith, They were circumciſed with the Circumciſion made without hands, in putting off the body of the ſins of the fleſh by the Circumciſion of Chriſt, <hi>Col.</hi> 2. 11.</p>
+               <p>The Meſſengers of the falſe Goſpel ſaith, This can never be done, but men muſt have a body of ſin as long as they live, which is far dif<g ref="char:EOLhyphen"/>ferent from the other.</p>
+               <p>The Meſſengers of the true Goſpel ſaith, Chriſt ſhall ſave his peo<g ref="char:EOLhyphen"/>ple from their ſins.</p>
+               <p>The Meſſengers of the falſe Goſpel ſaith, Chriſt ſhall ſave from the puniſhment due to ſin, but not from committing ſin; which doctrine overthrows the Iuſtice of God who giveth to every one according to their deeds.</p>
+            </div>
+            <div type="part">
+               <head>Here followeth a few Queries put to <hi>Leonard Letchford,</hi> either to be anſwered by plain Scripture, according as I have anſwered his before cited, or elſe to acknowledge that I have ſtruck the Devil dumb in his miniſter at <hi>Hurſt</hi> at laſt, though I have long ſuffered him to boaſt himſelf as though he were a Miniſter of Chriſt, even till his fruits are grown ſo foul and odious that every one is ready to bring in their verdict to the contrary.</head>
+               <p n="1">
+                  <hi>Query</hi> 1. VVHat is that Image in which man was created in the beginning by God, was that Image per<g ref="char:EOLhyphen"/>fect or imperfect?</p>
+               <p n="2">2. What was the forbidden fruit of which he eat through which he loſt this Image, and where is it now, and how is it to be known now?</p>
+               <p n="3">3. What was the Tree of Life from which man was driven, and where is it, and how muſt he come to it again?</p>
+               <p n="4">4. Whether man can be ſaved or come to life with God for ever, unleſs he come to this Tree and feed thereof, yea or nay?</p>
+               <p n="5">5. What are the Cherubims and the flaming Sword which turned every way to keep the way of the Tree of Life?</p>
+               <p n="6">6. What is that death which paſſed over all men in tranſgreſſion?</p>
+               <p n="7">7. What is the feed of the Woman which ſhould bruiſe the Ser<g ref="char:EOLhyphen"/>pents head, and what did God promiſe therein to all the Families of the earth?</p>
+               <p n="8">8. How muſt man be reſtored into that Image in which he was created, and whether he can come from under the power of that
+<pb n="31" facs="tcp:101443:18" rendition="simple:additions"/> death which paſſed over him, till he be thus reſored, yea or nay?</p>
+               <p n="9">9. Whether can man be ſo reſtored in this life, yea or nay: If yea, by what way and means? If nay, Whether at death, or the day of judgement, or betwixt both? Anſwer by plain Scripture, ſeeing the Scripture ſaith, no unclean thing, nor any thing that defileth, or worketh abomination, ſhall in any wiſe enter therein?</p>
+               <p n="10">10. What is the wall of partition which ſtands between God and Man? And whether man can be brought into unity with God again, out of the unity, before this wall be broken down, and this enmity ſlain, yea or nay?</p>
+               <p n="11">11. What is the valley of <hi>Achor,</hi> and where is it, in which God will plead with man by his ſword, and by fire, becauſe of that death which hath paſſed over him by tranſgreſſion?</p>
+               <p n="12">12. For what end was the Commandments and Law of God gi<g ref="char:EOLhyphen"/>ven forth by <hi>Moſes?</hi> Was they given forth to be broken or to be kept, yea or nay?</p>
+               <p n="13">13. Whether did God give them power to keep his Laws and Pre<g ref="char:EOLhyphen"/>cepts, when he commanded them to obſerve and do them, yea or nay?</p>
+               <p n="14">14. Why was this Law ſaid to be weak, and in what was this Co<g ref="char:EOLhyphen"/>venant faulty, and to what was this Covenant weak, and in what was this Covenant faulty?</p>
+               <p n="15">15. For what end was this Covenant and the Prieſthood therein changed? And why was there of neceſſity made a change of the Law?</p>
+               <p n="16">16. What was that death which was the cauſe that <hi>Aarons</hi> Prieſt<g ref="char:EOLhyphen"/>hood could not continue.</p>
+               <p n="17">17. VVhat was <hi>Aarons</hi> Office, and what was the Office of Chriſt, and what was the end of both their Offices?</p>
+               <p n="18">18. For what end was Chriſt manifeſted, and ſaid to be an ever<g ref="char:EOLhyphen"/>laſting high Prieſt? Was it that ſin might remain or be deſtroyed?</p>
+               <p n="19">19. For what end did he lay down his life? Was it to ranſome man from ſin or no?</p>
+               <p n="20">20. VVhether can man be truly ſaid to be ranſomed or ſaved, while he lives under the power of Satan, yea or no?</p>
+               <p n="21">21. VVhether hath man any benefit by the death or blood of Chriſt whilehe lives in ſin and tranſgreſſion, yea or nay?</p>
+               <p n="22">22. Can man truly ſay he is redeemed, while he is in his vain con<g ref="char:EOLhyphen"/>verſation, or can he truly ſay Chriſt is his Saviour, while he is not ſaved from his ſin, yea or nay?</p>
+               <p n="23">23. VVhat is that death which <hi>Paul</hi> ſpake of, when he ſaid, I thank God I dye dayly, becauſe his body was alive years after?</p>
+               <p n="24">24. Doth God look upon any one to be in Chriſt, while he is in ſin? Or doth he juſtifie the ungodly while in ungodlineſs?</p>
+               <p n="25">
+                  <pb n="32" facs="tcp:101443:19" rendition="simple:additions"/>25. VVhether is any juſtified by Chriſt, who is not ſanctified by the blood of his Croſs throughout in body, ſoul, and ſpirit, yea or nay?</p>
+               <p n="26">26. VVhether any doth know the truth as it is in Ieſus, who is in the bondage of corruption, ſeeing Chriſt ſaid to his Diſciples, if you obey my word, you ſhall know the truth, and the truth ſhall make you free?</p>
+               <p n="27">27. VVhat was the work of Chriſt in the world, which his father gave him to do? and what was the difference between his works, and the works of the Law, by which no fleſh could be juſtified?</p>
+               <p n="28">28. VVhether is man freed from the guilt of ſin while he remains in the act of it? Or, whether is he freed from the puniſhment due for ſin (which is death, and ſeparation from God for ever) while he re<g ref="char:EOLhyphen"/>mains in either, yea or nay? If yea, ſhew how, and by what way if thou can?</p>
+               <p n="29">29. VVhat is the vertue of Chriſts reſurrection, and whether hath man any benefit thereby while he lyes in the grave of corruption, yea or nay?</p>
+               <p n="30">30. VVhat is the difference between the righteouſneſs of the Law, and the righteouſneſs of faith? And whether any can have this righ<g ref="char:EOLhyphen"/>teouſneſs imputed to him, as to be made his for ever, until he come to caſt off the old man, with his deeds, which is ſin and trangreſſion, yea or nay?</p>
+               <p n="31">31. VVhat is the old leaven which was to be purged out, that they might become a new lump? And whether he who commanded this thing, did not give them power to do it, yea or nay?</p>
+               <p n="32">32. VVhat is that death and hell which was to be caſt into the lake of fire? And where is that lake? And how may it now be known?</p>
+               <p n="33">33. VVhat is that victory of which death ſhould be ſwallowed up, and how and when may it now be gained or known?</p>
+               <p n="34">34. VVhether it was not a perfection of holineſs and righteouſ<g ref="char:EOLhyphen"/>neſs, and freedome from ſin and imperfection, that Chriſt and his Apoſtles held forth and witneſſed while they lived on earth, through the power of him whom God had raiſed from the dead? If yea, why is this Doctrine now condemned? If nay, where or how were they made perfect, ſhew by plain Scripture?</p>
+               <p>All theſe plain Scripture Queries are left to <hi>Leonard Letchſord</hi> to anſwer if he can, or elſe conſeſs himſelf a Miniſter not ſent of God, whoſe Doctrine is contrary to Chriſt and his Apoſtles.</p>
+               <closer>
+                  <signed>Written by him who hath ſuffered under <hi>Leonard Letchfords</hi> cruelty this fifteen moneths and upward, in the County Goal in <hi>Horſham,</hi> for the teſtimony of a good Conſcience, whoſe name is Ambroſe Rigge.</signed>
+               </closer>
+            </div>
+            <pb facs="tcp:101443:19"/>
+         </div>
+      </body>
+   </text>
+</TEI>
